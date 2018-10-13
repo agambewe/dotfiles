@@ -1,0 +1,18 @@
+## Alias section 
+alias cp="cp -i"                                                # Confirm before overwriting something
+alias df='df -h'                                                # Human-readable sizes
+alias free='free -m'                                            # Show sizes in MB
+alias gitu='git add . && git commit && git push'
+alias open='xdg-open'
+alias rm="rm -i"
+alias ls='ls --color=auto'
+alias ll='ls -l --color=auto --group-directories-first'
+alias grep='grep --color=auto'
+alias line='chromium --profile-directory=Default --app-id=ophjlpahpchlmihnnnihgmmeilfjmjjc'
+alias pacman='sudo pacman'
+alias forgotwifi='cd /etc/NetworkManager/ && echo linuxmind | sudo -S su && cd system-connections'
+alias update='sudo pacman -Syu'
+alias bluej='bash /home/b3we/Downloads/bluej/bluej'
+alias burp='java -jar /home/b3we/Documents/CTF/burp/BurpHelper.jar'
+alias music='ncmpcpp'
+alias font-refresh="fc-cache -fv"

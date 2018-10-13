@@ -1,0 +1,69 @@
+! ------------------------------------------------------------------------------
+! Import Colour from ~/.xrdb
+! ------------------------------------------------------------------------------
+
+#include ".xrdb/color/bew"
+!#include ".xrdb/rofi/nord"
+!#include ".xrdb/dmenu/nord"
+!#include ".xrdb/fonts/tewi"
+
+! ------------------------------------------------------------------------------
+! URxvt configs
+! ------------------------------------------------------------------------------
+
+URxvt.geometry: 		80x20
+URxvt*letterSpace: 	    0
+URxvt.lineSpace: 		2
+URxvt*internalBorder:   20
+URxvt*externalBorder:   0
+URxvt*depth:            32
+URxvt*saveline:         2000
+URxvt*termName:         rxvt-256color
+URxvt*iso14755:         false
+URxvt*scrollBar:        false
+URxvt*.font: -lucy-tewi-medium-r-normal-*-11-90-100-100-c-60-iso10646-1, \
+                 -wuncon-siji-medium-r-normal-*-10-100-75-75-c-80-iso10646-1
+URxvt*scrollBar_right:  false
+URxvt.depth: 32
+! URxvt.background: [95]#2f343f
+URxvt.background: [100]#272727
+URxvt.perl-ext-common:  default,clipboard,url-select,keyboard-select,matcher,tabbedex
+URxvt.tabbed.new-button: true
+URxvt.tabbed.autohide: true
+URxvt.tabbed.reopen-on-close: yes
+URxvt.tabbed.no-tabbedex-keys: true
+URxvt.keysym.C-t: perl:tabbedex:new_tab
+URxvt.keysym.C-Tab: perl:tabbedex:next_tab
+URxvt.keysym.C-Shift-Tab: perl:tabbedex:prev_tab
+URxvt.keysym.C-Shift-Left: perl:tabbedex:move_tab_left
+URxvt.keysym.C-Shift-Right: perl:tabbedex:move_tab_right
+URxvt.keysym.C-Shift-R: perl:tabbedex:rename_tab
+URxvt.copyCommand:      xclip -i -selection clipboard
+URxvt.pasteCommand:     xclip -o -selection clipboard
+URxvt.tabbed.tab-fg:    <blue, 1>
+URxvt.iso14755: False
+URxvt.keysym.C-C: perl:clipboard:copy
+URxvt.keysym.C-V: perl:clipboard:paste
+URxvt.keysym.C-A-V: perl:clipboard:paste_escaped
+URxvt.keysym.C-Escape:  perl:keyboard-select:activate
+URxvt.keysym.Shift-Up:	command:\033]720;1\007
+URxvt.keysym.Shift-Down:command:\033]721;1\007
+URxvt.keysym.C-s:       perl:keyboard-select:search
+URxvt.keysym.C-u:       perl:url-select:select_next
+URxvt.urlLauncher:      firefox
+URxvt.underlineURLs:    true
+URxvt.urlButton:        1
+URxvt*buffered:         false          
+URxvt.urgentOnBell: True
+
+! ------------------------------------------------------------------------------
+! Xft Font Configuration
+! ------------------------------------------------------------------------------
+
+!Xft.autohint: 0
+!Xft.lcdfilter: lcddefault
+!Xft.hintstyle: hintslight
+!Xft.hinting: 1
+!Xft.antialias: 1
+!Xft.rgba: rgb
+                                                           
