@@ -1,0 +1,23 @@
+#!/bin/bash
+
+#-sidebar-mode \
+#-modi run,drun,window \
+
+rofi -lines 4 \
+.line-margin: 1 \
+-modi drun,window \
+-sidebar-mode \
+-line-padding 5 \
+-columns 2 \
+-padding 30 \
+-margin 10 \
+-border 10 \
+-hide-scrollbar true \
+-width 44 \
+-location 0 \
+-show drun \
+-opacity 55 \
+-bw 2 \
+-show-icons \
+-drun-icon-theme "Numix-Circle" \
+-font "Cantarell 8"
