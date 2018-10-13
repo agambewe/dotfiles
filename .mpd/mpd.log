@@ -1,0 +1,711 @@
+Jul 28 20:42 : update: added /Childish Gambino - Redbone (Official Audio).mp3
+Jul 28 20:42 : update: added /TroyBoi - Afterhours (feat. Diplo & Nina Sky) Official Music Video.mp3
+Jul 28 20:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 20:42 : update: added /Rhye - Open.mp3
+Jul 28 20:42 : update: added /Post Malone - Congratulations ft. Quavo.mp3
+Jul 28 20:42 : update: added /Mark Petrie - Epiphany(Extended Mix).mp3
+Jul 28 20:42 : update: added /50 Cent - In Da Club.mp3
+Jul 28 20:42 : update: added /Dance Gavin Dance - Young Robot.mp3
+Jul 28 20:42 : update: added /Future - Mask Off.mp3
+Jul 28 20:42 : update: added /Count On Me-Bruno Mars _ Lyrics.mp3
+Jul 28 20:42 : update: added /Timmy Turner Theme Song Remix.mp3
+Jul 28 20:42 : update: added /TroyBoi - Remember.mp3
+Jul 28 20:42 : client: [0] opened from 127.0.0.1:52616
+Jul 28 20:43 : client: [0] closed
+Jul 28 20:43 : client: [1] opened from 127.0.0.1:52772
+Jul 28 20:45 : client: [1] closed
+Jul 28 20:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 20:45 : client: [0] opened from 127.0.0.1:52784
+Jul 28 20:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 20:47 : client: [0] closed
+Jul 28 20:47 : client: [1] opened from 127.0.0.1:52828
+Jul 28 20:47 : client: [1] closed
+Jul 28 20:47 : client: [2] opened from 127.0.0.1:52830
+Jul 28 20:48 : player: played "Childish Gambino - Redbone (Official Audio).mp3"
+Jul 28 20:48 : client: [2] closed
+Jul 28 20:50 : client: [3] opened from 127.0.0.1:52844
+Jul 28 21:29 : player: played "Childish Gambino - Redbone (Official Audio).mp3"
+Jul 28 21:29 : client: [3] closed
+Jul 29 10:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 10:23 : client: [0] opened from 127.0.0.1:39320
+Jul 29 10:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 10:25 : client: [0] closed
+Jul 29 10:25 : client: [1] opened from 127.0.0.1:39340
+Jul 29 10:25 : client: [1] closed
+Jul 29 10:25 : client: [2] opened from 127.0.0.1:39342
+Jul 29 10:27 : client: [2] closed
+Jul 29 10:27 : client: [3] opened from 127.0.0.1:39370
+Jul 29 10:28 : client: [3] closed
+Jul 29 10:28 : client: [4] opened from 127.0.0.1:39372
+Jul 29 10:28 : client: [4] closed
+Jul 29 10:28 : client: [5] opened from 127.0.0.1:39374
+Jul 29 10:29 : client: [5] closed
+Jul 29 10:29 : client: [6] opened from 127.0.0.1:39376
+Jul 29 10:29 : client: [6] closed
+Jul 29 10:29 : client: [7] opened from 127.0.0.1:39378
+Jul 29 10:30 : client: [7] closed
+Jul 29 10:31 : client: [8] opened from 127.0.0.1:39382
+Jul 29 10:31 : client: [8] closed
+Jul 29 10:32 : client: [9] opened from 127.0.0.1:39424
+Jul 29 10:33 : client: [9] closed
+Jul 29 10:33 : client: [10] opened from 127.0.0.1:39426
+Jul 29 10:33 : client: [10] closed
+Jul 29 10:33 : client: [11] opened from 127.0.0.1:39428
+Jul 29 10:33 : client: [11] closed
+Jul 29 10:34 : client: [12] opened from 127.0.0.1:39430
+Jul 29 10:34 : client: [12] closed
+Jul 29 10:34 : client: [13] opened from 127.0.0.1:39434
+Jul 29 10:34 : player: played "Childish Gambino - Redbone (Official Audio).mp3"
+Jul 29 10:35 : client: [13] closed
+Jul 29 10:36 : client: [14] opened from 127.0.0.1:39442
+Jul 29 10:37 : client: [14] closed
+Jul 29 10:37 : client: [15] opened from 127.0.0.1:39444
+Jul 29 10:37 : client: [15] closed
+Jul 29 10:37 : client: [16] opened from 127.0.0.1:39446
+Jul 29 10:37 : client: [16] closed
+Jul 29 10:37 : client: [17] opened from 127.0.0.1:39450
+Jul 29 10:38 : client: [17] closed
+Jul 29 10:38 : client: [18] opened from 127.0.0.1:39460
+Jul 29 10:39 : client: [18] closed
+Jul 29 10:39 : client: [19] opened from 127.0.0.1:39462
+Jul 29 10:39 : player: played "Rhye - Open.mp3"
+Jul 29 10:40 : client: [19] closed
+Jul 29 10:40 : client: [20] opened from 127.0.0.1:39468
+Jul 29 10:41 : client: [20] closed
+Jul 29 10:41 : client: [21] opened from 127.0.0.1:39496
+Jul 29 10:43 : player: played "Post Malone - Congratulations ft. Quavo.mp3"
+Jul 29 10:43 : client: [21] closed
+Jul 29 10:43 : client: [22] opened from 127.0.0.1:39512
+Jul 29 10:43 : client: [22] closed
+Jul 29 10:43 : client: [23] opened from 127.0.0.1:39514
+Jul 29 10:44 : update: updating /Childish Gambino - Redbone (Official Audio).mp3
+Jul 29 10:44 : update: updating /Count On Me-Bruno Mars _ Lyrics.mp3
+Jul 29 10:45 : update: updating /Dance Gavin Dance - Young Robot.mp3
+Jul 29 10:45 : update: updating /Future - Mask Off.mp3
+Jul 29 10:46 : update: updating /Mark Petrie - Epiphany(Extended Mix).mp3
+Jul 29 10:46 : update: updating /Post Malone - Congratulations ft. Quavo.mp3
+Jul 29 10:47 : update: updating /Timmy Turner Theme Song Remix.mp3
+Jul 29 10:47 : update: updating /TroyBoi - Afterhours (feat. Diplo & Nina Sky) Official Music Video.mp3
+Jul 29 10:47 : update: updating /TroyBoi - Remember.mp3
+Jul 29 10:48 : player: played "Dance Gavin Dance - Young Robot.mp3"
+Jul 29 10:52 : player: played "Mark Petrie - Epiphany(Extended Mix).mp3"
+Jul 29 10:54 : client: [23] closed
+Jul 29 10:54 : client: [24] opened from 127.0.0.1:41292
+Jul 29 10:54 : client: [24] closed
+Jul 29 10:54 : client: [25] opened from 127.0.0.1:41294
+Jul 29 10:54 : client: [25] closed
+Jul 29 10:54 : client: [26] opened from 127.0.0.1:41296
+Jul 29 10:55 : client: [26] closed
+Jul 29 10:55 : client: [27] opened from 127.0.0.1:41432
+Jul 29 10:56 : client: [27] closed
+Jul 29 10:56 : client: [28] opened from 127.0.0.1:41452
+Jul 29 10:57 : client: [28] closed
+Jul 29 10:57 : client: [29] opened from 127.0.0.1:41494
+Jul 29 11:02 : player: played "Rhye - Open.mp3"
+Jul 29 11:04 : client: [29] closed
+Jul 29 11:06 : player: played "TroyBoi - Afterhours (feat. Diplo & Nina Sky) Official Music Video.mp3"
+Jul 29 11:08 : client: [30] opened from 127.0.0.1:41828
+Jul 29 11:10 : client: [30] closed
+Jul 29 11:11 : client: [31] opened from 127.0.0.1:41970
+Jul 29 11:14 : client: [31] closed
+Jul 29 11:14 : client: [32] opened from 127.0.0.1:41986
+Jul 29 11:15 : client: [32] closed
+Jul 29 11:15 : client: [33] opened from 127.0.0.1:41996
+Jul 29 11:15 : client: [33] closed
+Jul 29 11:15 : client: [34] opened from 127.0.0.1:41998
+Jul 29 11:15 : client: [34] closed
+Jul 29 11:15 : client: [35] opened from 127.0.0.1:42002
+Jul 29 11:15 : client: [35] closed
+Jul 29 11:15 : client: [36] opened from 127.0.0.1:42004
+Jul 29 11:16 : client: [36] closed
+Jul 29 11:16 : client: [37] opened from 127.0.0.1:42006
+Jul 29 11:16 : client: [37] closed
+Jul 29 11:16 : client: [38] opened from 127.0.0.1:42012
+Jul 29 11:16 : player: played "Future - Mask Off.mp3"
+Jul 29 11:16 : client: [38] closed
+Jul 29 11:16 : client: [39] opened from 127.0.0.1:42014
+Jul 29 11:17 : client: [39] closed
+Jul 29 11:17 : client: [40] opened from 127.0.0.1:42020
+Jul 29 11:17 : client: [40] closed
+Jul 29 11:17 : client: [41] opened from 127.0.0.1:42024
+Jul 29 11:17 : client: [41] closed
+Jul 29 11:18 : client: [42] opened from 127.0.0.1:42030
+Jul 29 11:18 : client: [42] closed
+Jul 29 11:18 : client: [43] opened from 127.0.0.1:42032
+Jul 29 11:18 : client: [43] closed
+Jul 29 11:18 : client: [44] opened from 127.0.0.1:42034
+Jul 29 11:18 : client: [44] closed
+Jul 29 11:18 : client: [45] opened from 127.0.0.1:42036
+Jul 29 11:18 : client: [45] closed
+Jul 29 11:18 : client: [46] opened from 127.0.0.1:42038
+Jul 29 11:19 : player: played "Mark Petrie - Epiphany(Extended Mix).mp3"
+Jul 29 11:19 : client: [46] closed
+Jul 29 11:19 : client: [47] opened from 127.0.0.1:42054
+Jul 29 11:20 : client: [47] closed
+Jul 29 11:20 : client: [48] opened from 127.0.0.1:42066
+Jul 29 11:21 : client: [48] closed
+Jul 29 11:21 : client: [49] opened from 127.0.0.1:42076
+Jul 29 11:22 : client: [49] closed
+Jul 29 11:22 : client: [50] opened from 127.0.0.1:42078
+Jul 29 11:22 : client: [50] closed
+Jul 29 11:22 : player: played "Post Malone - Congratulations ft. Quavo.mp3"
+Jul 29 11:23 : client: [51] opened from 127.0.0.1:42100
+Jul 29 11:23 : client: [51] closed
+Jul 29 11:23 : client: [52] opened from 127.0.0.1:42102
+Jul 29 11:24 : client: [52] closed
+Jul 29 11:24 : client: [53] opened from 127.0.0.1:42108
+Jul 29 11:24 : client: [53] closed
+Jul 29 11:24 : client: [54] opened from 127.0.0.1:42110
+Jul 29 11:24 : client: [54] closed
+Jul 29 11:24 : client: [55] opened from 127.0.0.1:42114
+Jul 29 11:25 : client: [55] closed
+Jul 29 11:25 : client: [56] opened from 127.0.0.1:42120
+Jul 29 11:26 : client: [56] closed
+Jul 29 11:26 : client: [57] opened from 127.0.0.1:42130
+Jul 29 11:26 : client: [57] closed
+Jul 29 11:26 : client: [58] opened from 127.0.0.1:42132
+Jul 29 11:27 : client: [58] closed
+Jul 29 11:28 : client: [59] opened from 127.0.0.1:42142
+Jul 29 11:28 : client: [59] closed
+Jul 29 11:28 : client: [60] opened from 127.0.0.1:42148
+Jul 29 11:28 : client: [60] closed
+Jul 29 11:28 : client: [61] opened from 127.0.0.1:42150
+Jul 29 11:29 : client: [61] closed
+Jul 29 11:29 : client: [62] opened from 127.0.0.1:42152
+Jul 29 11:29 : player: played "TroyBoi - Remember.mp3"
+Jul 29 11:29 : client: [62] closed
+Jul 29 11:29 : client: [63] opened from 127.0.0.1:42162
+Jul 29 11:29 : client: [63] closed
+Jul 29 11:29 : client: [64] opened from 127.0.0.1:42164
+Jul 29 11:30 : client: [64] closed
+Jul 29 11:30 : client: [65] opened from 127.0.0.1:42174
+Jul 29 11:30 : client: [65] closed
+Jul 29 11:30 : client: [66] opened from 127.0.0.1:42176
+Jul 29 11:31 : client: [66] closed
+Jul 29 11:31 : client: [67] opened from 127.0.0.1:42178
+Jul 29 11:31 : client: [67] closed
+Jul 29 11:31 : client: [68] opened from 127.0.0.1:42184
+Jul 29 11:31 : client: [68] closed
+Jul 29 11:31 : client: [69] opened from 127.0.0.1:42186
+Jul 29 11:32 : client: [69] closed
+Jul 29 11:32 : client: [70] opened from 127.0.0.1:42192
+Jul 29 11:32 : client: [70] closed
+Jul 29 11:32 : client: [71] opened from 127.0.0.1:42196
+Jul 29 11:32 : client: [71] closed
+Jul 29 11:32 : client: [72] opened from 127.0.0.1:42202
+Jul 29 11:33 : client: [72] closed
+Jul 29 11:33 : client: [73] opened from 127.0.0.1:42208
+Jul 29 11:33 : client: [73] closed
+Jul 29 11:33 : client: [74] opened from 127.0.0.1:42210
+Jul 29 11:34 : client: [74] closed
+Jul 29 11:34 : client: [75] opened from 127.0.0.1:42220
+Jul 29 11:34 : client: [75] closed
+Jul 29 11:34 : client: [76] opened from 127.0.0.1:42222
+Jul 29 11:35 : player: played "Rhye - Open.mp3"
+Jul 29 11:35 : client: [76] closed
+Jul 29 11:35 : client: [77] opened from 127.0.0.1:42228
+Jul 29 11:35 : client: [77] closed
+Jul 29 11:35 : client: [78] opened from 127.0.0.1:42234
+Jul 29 11:36 : client: [78] closed
+Jul 29 11:36 : client: [79] opened from 127.0.0.1:42236
+Jul 29 11:36 : client: [79] closed
+Jul 29 11:36 : client: [80] opened from 127.0.0.1:42244
+Jul 29 11:37 : client: [80] closed
+Jul 29 11:37 : client: [81] opened from 127.0.0.1:42246
+Jul 29 11:37 : client: [81] closed
+Jul 29 11:37 : client: [82] opened from 127.0.0.1:42254
+Jul 29 11:37 : client: [82] closed
+Jul 29 11:37 : client: [83] opened from 127.0.0.1:42258
+Jul 29 11:37 : client: [83] closed
+Jul 29 11:37 : client: [84] opened from 127.0.0.1:42260
+Jul 29 11:38 : player: played "TroyBoi - Afterhours (feat. Diplo & Nina Sky) Official Music Video.mp3"
+Jul 29 11:42 : player: played "TroyBoi - Remember.mp3"
+Jul 29 11:53 : client: [84] closed
+Jul 29 11:53 : client: [85] opened from 127.0.0.1:45952
+Jul 29 11:53 : client: [85] closed
+Jul 29 11:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 11:53 : client: [0] opened from 127.0.0.1:45962
+Jul 29 11:54 : client: [0] closed
+Jul 29 11:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 11:55 : client: [0] opened from 127.0.0.1:45982
+Jul 29 11:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 11:56 : client: [0] closed
+Jul 29 11:56 : client: [1] opened from 127.0.0.1:45998
+Jul 29 11:56 : client: [1] closed
+Jul 29 11:57 : client: [2] opened from 127.0.0.1:46002
+Jul 29 11:57 : client: [2] closed
+Jul 29 11:57 : client: [3] opened from 127.0.0.1:46004
+Jul 29 11:57 : player: played "50 Cent - In Da Club.mp3"
+Jul 29 11:57 : client: [3] closed
+Jul 29 12:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 12:00 : client: [0] opened from 127.0.0.1:60172
+Jul 29 12:01 : client: [0] closed
+Jul 29 12:02 : client: [1] opened from 127.0.0.1:60220
+Jul 29 12:03 : client: [1] closed
+Jul 29 12:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 12:03 : client: [0] opened from 127.0.0.1:60224
+Jul 29 12:04 : client: [0] closed
+Jul 29 12:04 : client: [1] opened from 127.0.0.1:60228
+Jul 29 12:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 12:06 : player: played "TroyBoi - Remember.mp3"
+Jul 29 12:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 12:16 : client: [0] opened from 127.0.0.1:60544
+Jul 29 12:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 12:18 : update: updating /Excision  Illenium - Gold (Stupid Love) (ft. Shallows).mp3
+Jul 29 12:19 : update: updating /Flume - Say It (feat. Tove Lo) (Illenium Remix).mp3
+Jul 29 12:19 : update: updating /Gryffin  Illenium ft. Daya - Feel Good [Official Lyric Video].mp3
+Jul 29 12:19 : update: updating /Illenium - Afterlife (feat. ECHOS).mp3
+Jul 29 12:20 : update: updating /Illenium - Beautiful Creatures (feat. MAX).mp3
+Jul 29 12:20 : update: updating /ILLENIUM - Crawl Outta Love (feat. Annika Wells) - Official Video.mp3
+Jul 29 12:21 : update: updating /Illenium - Fortress (feat. Joni Fatora).mp3
+Jul 29 12:21 : update: updating /Illenium - Fractures (feat. Nevve).mp3
+Jul 29 12:21 : update: updating /Illenium - Free Fall (ft. RUNN).mp3
+Jul 29 12:21 : update: updating /Illenium - Ill Be Your Reason.mp3
+Jul 29 12:23 : update: updating /Illenium - Its All On U ft. Liam ODonnell (T-Mass  LZRD Remix).mp3
+Jul 29 12:23 : update: updating /Illenium - Leaving.mp3
+Jul 29 12:24 : player: played "Illenium - Fortress (feat. Joni Fatora).mp3"
+Jul 29 12:25 : update: updating /Illenium - Let You Go (feat. Ember Island).mp3
+Jul 29 12:26 : update: updating /Illenium - Needed You (feat. Dia Frampton).mp3
+Jul 29 12:26 : update: updating /Illenium - Reverie (feat. King Deco).mp3
+Jul 29 12:27 : update: updating /Illenium - Sleepwalker (feat. Joni Fatora).mp3
+Jul 29 12:27 : update: updating /Illenium ft. Emilie Brandt - Lost (WE ARE FURY Remix).mp3
+Jul 29 12:28 : update: updating /Illenium MitiS  Said The Sky - All I Got X Moments X Sound of Walking Away [Nick Gunner Mashup].mp3
+Jul 29 12:29 : update: updating /02 Sabrina Secret Love Song.mp3
+Jul 29 12:31 : client: [1] opened from 127.0.0.1:60708
+Jul 29 12:34 : player: played "Illenium - Let You Go (feat. Ember Island).mp3"
+Jul 29 12:35 : player: played "Illenium - Let You Go (feat. Ember Island).mp3"
+Jul 29 12:36 : player: played "Illenium - Let You Go (feat. Ember Island).mp3"
+Jul 29 13:01 : player: played "02 Sabrina Secret Love Song.mp3"
+Jul 29 13:06 : player: played "Sabrina - A Thousand Miles.mp3"
+Jul 29 13:10 : player: played "Sabrina - Hero.mp3"
+Jul 29 13:14 : player: played "Sabrina - Home.mp3"
+Jul 29 13:18 : player: played "Sabrina - I'm With You.mp3"
+Jul 29 13:22 : player: played "Sabrina - Irreplacable.mp3"
+Jul 29 13:26 : player: played "Sabrina - My Guardian Angel.mp3"
+Jul 29 13:30 : player: played "Sabrina - Out Of Reach.mp3"
+Jul 29 13:31 : player: played "Sabrina - Perfect.mp3"
+Jul 29 14:19 : client: [0] closed
+Jul 29 14:19 : client: [2] opened from 127.0.0.1:33162
+Jul 29 14:22 : player: played "TroyBoi - Remember.mp3"
+Jul 29 16:32 : player: played "Excision  Illenium - Gold (Stupid Love) (ft. Shallows).mp3"
+Jul 29 16:37 : player: played "Gryffin  Illenium ft. Daya - Feel Good [Official Lyric Video].mp3"
+Jul 29 16:43 : player: played "Illenium - Afterlife (feat. ECHOS).mp3"
+Jul 29 16:46 : player: played "Illenium - Beautiful Creatures (feat. MAX).mp3"
+Jul 29 16:50 : player: played "ILLENIUM - Crawl Outta Love (feat. Annika Wells) - Official Video.mp3"
+Jul 29 16:54 : player: played "Illenium - Fortress (feat. Joni Fatora).mp3"
+Jul 29 16:58 : player: played "Illenium - Fractures (feat. Nevve).mp3"
+Jul 29 16:59 : client: [1] closed
+Jul 29 16:59 : client: [2] closed
+Jul 29 16:59 : exception: "pulse audio" [pulse] failed to play: disconnected
+Jul 29 16:59 : player: played "Illenium - Free Fall (ft. RUNN).mp3"
+Jul 30 11:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 30 11:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 30 11:19 : client: [0] opened from 127.0.0.1:44582
+Jul 30 11:19 : client: [0] closed
+Jul 30 11:21 : player: played "Illenium - Free Fall (ft. RUNN).mp3"
+Jul 30 11:24 : player: played "Illenium - Ill Be Your Reason.mp3"
+Jul 30 11:28 : player: played "Illenium - Its All On U ft. Liam ODonnell (T-Mass  LZRD Remix).mp3"
+Jul 30 11:31 : player: played "Illenium - Leaving.mp3"
+Jul 30 11:34 : player: played "Illenium - Let You Go (feat. Ember Island).mp3"
+Jul 30 11:48 : player: played "Illenium - Needed You (feat. Dia Frampton).mp3"
+Jul 30 11:53 : player: played "Illenium - Reverie (feat. King Deco).mp3"
+Jul 30 11:57 : player: played "Illenium - Sleepwalker (feat. Joni Fatora).mp3"
+Jul 30 12:02 : player: played "Illenium ft. Emilie Brandt - Lost (WE ARE FURY Remix).mp3"
+Jul 30 12:07 : player: played "Illenium MitiS  Said The Sky - All I Got X Moments X Sound of Walking Away [Nick Gunner Mashup].mp3"
+Jul 30 12:11 : player: played "02 Sabrina Secret Love Song.mp3"
+Jul 30 12:14 : client: [1] opened from 127.0.0.1:45670
+Jul 30 12:17 : player: played "Mark Petrie - Epiphany(Extended Mix).mp3"
+Jul 30 12:21 : player: played "Rhye - Open.mp3"
+Jul 30 12:27 : player: played "Childish Gambino - Redbone (Official Audio).mp3"
+Jul 30 12:32 : player: played "Excision  Illenium - Gold (Stupid Love) (ft. Shallows).mp3"
+Jul 30 12:36 : player: played "Gryffin  Illenium ft. Daya - Feel Good [Official Lyric Video].mp3"
+Jul 30 12:42 : player: played "Illenium - Afterlife (feat. ECHOS).mp3"
+Jul 30 12:46 : player: played "Illenium - Beautiful Creatures (feat. MAX).mp3"
+Jul 30 12:50 : player: played "ILLENIUM - Crawl Outta Love (feat. Annika Wells) - Official Video.mp3"
+Jul 30 12:53 : player: played "Illenium - Fortress (feat. Joni Fatora).mp3"
+Jul 30 12:57 : player: played "Illenium - Fractures (feat. Nevve).mp3"
+Jul 30 13:00 : player: played "Illenium - Free Fall (ft. RUNN).mp3"
+Jul 30 13:04 : player: played "Illenium - Ill Be Your Reason.mp3"
+Jul 30 13:07 : player: played "Illenium - Its All On U ft. Liam ODonnell (T-Mass  LZRD Remix).mp3"
+Jul 30 13:11 : player: played "Illenium - Leaving.mp3"
+Jul 30 13:12 : client: [1] closed
+Jul 30 13:12 : client: [2] opened from 127.0.0.1:46194
+Jul 30 13:12 : client: [2] closed
+Jul 30 13:14 : client: [3] opened from 127.0.0.1:46200
+Jul 30 13:14 : player: played "50 Cent - In Da Club.mp3"
+Jul 30 13:14 : client: [3] closed
+Aug 01 18:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 01 18:11 : client: [0] opened from 127.0.0.1:40736
+Aug 01 18:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 01 18:16 : player: played "Childish Gambino - Redbone (Official Audio).mp3"
+Aug 01 18:21 : player: played "Excision  Illenium - Gold (Stupid Love) (ft. Shallows).mp3"
+Aug 01 18:25 : player: played "Gryffin  Illenium ft. Daya - Feel Good [Official Lyric Video].mp3"
+Aug 01 18:26 : client: [0] closed
+Aug 01 18:26 : client: [1] opened from 127.0.0.1:40868
+Aug 01 18:26 : player: played "Illenium - Afterlife (feat. ECHOS).mp3"
+Aug 01 18:26 : client: [1] closed
+Aug 05 03:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 03:43 : client: [0] opened from 127.0.0.1:40312
+Aug 05 03:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 03:44 : client: [1] opened from 127.0.0.1:40314
+Aug 05 03:44 : exception: "pulse audio" [pulse] failed to play: suspended
+Aug 05 03:45 : player: played "Illenium - Afterlife (feat. ECHOS).mp3"
+Aug 05 03:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 03:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 03:47 : client: [0] opened from 127.0.0.1:36514
+Aug 05 03:48 : client: [1] opened from 127.0.0.1:36516
+Aug 05 03:48 : client: [0] closed
+Aug 05 03:49 : client: [2] opened from 127.0.0.1:36520
+Aug 05 03:52 : player: played "Sabrina - Perfect.mp3"
+Aug 05 03:56 : player: played "Sabrina - The Reason.mp3"
+Aug 05 04:00 : client: [2] closed
+Aug 05 04:00 : client: [1] closed
+Aug 14 14:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 14:43 : client: [0] opened from 127.0.0.1:44498
+Aug 14 14:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 14:44 : player: played "Post Malone - Congratulations ft. Quavo.mp3"
+Aug 14 14:44 : client: [0] closed
+Sep 30 23:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 23:13 : client: [0] opened from 127.0.0.1:42534
+Sep 30 23:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 23:17 : player: played "Sabrina - Irreplacable.mp3"
+Sep 30 23:22 : player: played "Sabrina - Umbrella.mp3"
+Sep 30 23:24 : client: [0] closed
+Sep 30 23:24 : client: [1] opened from 127.0.0.1:43638
+Sep 30 23:24 : client: [1] closed
+Sep 30 23:24 : client: [2] opened from 127.0.0.1:43640
+Sep 30 23:25 : update: added /MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO).mp3
+Sep 30 23:25 : client: [2] closed
+Sep 30 23:26 : player: played "Flume - Say It (feat. Tove Lo) (Illenium Remix).mp3"
+Sep 30 23:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 23:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 23:26 : client: [0] opened from 127.0.0.1:43650
+Sep 30 23:35 : client: [0] closed
+Oct 01 01:08 : client: [1] opened from 127.0.0.1:47612
+Oct 01 01:08 : client: [1] closed
+Oct 01 01:10 : player: played "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO).mp3"
+Oct 01 01:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 01:10 : client: [0] opened from 127.0.0.1:47620
+Oct 01 01:11 : update: added /HONNE - Shrink ◐.mp3
+Oct 01 01:11 : update: added /HONNE - I Might ◑.mp3
+Oct 01 01:11 : update: added /Phum Viphurit - Lover Boy [Official Video].mp3
+Oct 01 01:11 : update: added /HONNE - Location Unknown ◐ (feat. Georgia).mp3
+Oct 01 01:11 : update: added /HONNE - Day 1 ◑.mp3
+Oct 01 01:11 : update: added /Gentle Bones - I Wouldnt Know Any Better Than You (Lyric Video).mp3
+Oct 01 01:11 : update: added /HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3
+Oct 01 01:11 : update: added /HONNE - Me  You ◑.mp3
+Oct 01 01:11 : update: added /HONNE - No Place Like Home (feat. JONES).mp3
+Oct 01 01:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 01:14 : update: updating /Phum Viphurit - Lover Boy [Official Video].mp3
+Oct 01 01:14 : update: updating /Gentle Bones - I Wouldnt Know Any Better Than You (Lyric Video).mp3
+Oct 01 01:15 : update: updating /HONNE - Day 1 ◑.mp3
+Oct 01 01:15 : update: updating /HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3
+Oct 01 01:16 : player: played "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO).mp3"
+Oct 01 01:16 : update: updating /HONNE - I Might ◑.mp3
+Oct 01 01:16 : update: updating /HONNE - Location Unknown ◐ (feat. Georgia).mp3
+Oct 01 01:16 : update: updating /HONNE - Me  You ◑.mp3
+Oct 01 01:17 : update: updating /HONNE - No Place Like Home (feat. JONES).mp3
+Oct 01 01:17 : update: updating /HONNE - Shrink ◐.mp3
+Oct 01 01:17 : client: [0] closed
+Oct 01 01:20 : player: played "Timmy Turner Theme Song Remix.mp3"
+Oct 06 20:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 20:26 : client: [0] opened from 127.0.0.1:44040
+Oct 06 20:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 20:28 : client: [0] closed
+Oct 06 20:30 : player: played "HONNE - Day 1 ◑.mp3"
+Oct 06 20:33 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 06 20:38 : player: played "HONNE - I Might ◑.mp3"
+Oct 06 20:43 : player: played "HONNE - Location Unknown ◐ (feat. Georgia).mp3"
+Oct 06 20:47 : player: played "HONNE - Me  You ◑.mp3"
+Oct 06 20:47 : exception: "pulse audio" [pulse] failed to play: disconnected
+Oct 06 20:47 : player: played "HONNE - No Place Like Home (feat. JONES).mp3"
+Oct 06 21:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 21:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 21:24 : client: [0] opened from 127.0.0.1:50088
+Oct 06 21:24 : client: [0] closed
+Oct 06 21:24 : client: [1] opened from 127.0.0.1:50094
+Oct 06 21:24 : client: [1] closed
+Oct 06 21:24 : client: [2] opened from 127.0.0.1:50100
+Oct 06 21:25 : client: [2] closed
+Oct 06 21:26 : client: [3] opened from 127.0.0.1:50216
+Oct 06 21:27 : player: played "HONNE - No Place Like Home (feat. JONES).mp3"
+Oct 06 21:27 : client: [3] closed
+Oct 06 21:31 : player: played "HONNE - Shrink ◐.mp3"
+Oct 06 21:31 : client: [4] opened from 127.0.0.1:50334
+Oct 06 21:31 : client: [4] closed
+Oct 06 21:50 : client: [5] opened from 127.0.0.1:52670
+Oct 06 21:50 : client: [5] closed
+Oct 07 12:08 : player: played "Phum Viphurit - Lover Boy [Official Video].mp3"
+Oct 07 14:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 14:25 : client: [0] opened from 127.0.0.1:43184
+Oct 07 14:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 14:30 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 07 14:34 : player: played "HONNE - I Might ◑.mp3"
+Oct 07 14:34 : update: added JAJAL/Jonas_Blue_-_Rise_ft._Jack_Jack-btrzs54s1Rc.mp3
+Oct 07 14:34 : update: added JAJAL/Monita_Tahalea_--_Memulai_Kembali_Official_Video-hRk1p5e34Ns.mp3
+Oct 07 14:34 : update: added JAJAL/Ariana Grande - Dangerous Woman.mp3
+Oct 07 14:34 : update: added JAJAL/Anne-Marie_-_2002_Official_Video-Il-an3K9pjg.mp3
+Oct 07 14:40 : client: [0] closed
+Oct 07 14:41 : player: played "HONNE - Day 1 ◑.mp3"
+Oct 07 14:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 14:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 14:41 : player: played "HONNE - Day 1 ◑.mp3"
+Oct 07 14:43 : client: [0] opened from 127.0.0.1:43568
+Oct 07 14:43 : client: [0] closed
+Oct 07 14:44 : client: [1] opened from 127.0.0.1:43570
+Oct 07 14:44 : client: [1] closed
+Oct 07 14:44 : client: [2] opened from 127.0.0.1:43572
+Oct 07 14:45 : client: [2] closed
+Oct 07 14:45 : client: [3] opened from 127.0.0.1:43574
+Oct 07 14:45 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 07 14:50 : player: played "HONNE - I Might ◑.mp3"
+Oct 07 14:54 : player: played "HONNE - Location Unknown ◐ (feat. Georgia).mp3"
+Oct 07 14:58 : player: played "HONNE - Me  You ◑.mp3"
+Oct 07 15:03 : player: played "HONNE - No Place Like Home (feat. JONES).mp3"
+Oct 07 15:07 : player: played "HONNE - Shrink ◐.mp3"
+Oct 07 15:12 : player: played "Phum Viphurit - Lover Boy [Official Video].mp3"
+Oct 07 15:20 : player: played "Timmy Turner Theme Song Remix.mp3"
+Oct 07 15:23 : player: played "Gentle Bones - I Wouldnt Know Any Better Than You (Lyric Video).mp3"
+Oct 07 15:33 : client: [3] closed
+Oct 07 15:33 : client: [4] opened from 127.0.0.1:45814
+Oct 07 15:38 : client: [5] opened from 127.0.0.1:45820
+Oct 07 15:39 : client: [5] closed
+Oct 07 15:39 : client: [6] opened from 127.0.0.1:45822
+Oct 07 15:40 : client: [6] closed
+Oct 07 15:44 : player: played "HONNE - Day 1 ◑.mp3"
+Oct 07 15:47 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 07 15:52 : player: played "HONNE - I Might ◑.mp3"
+Oct 07 15:57 : player: played "HONNE - Location Unknown ◐ (feat. Georgia).mp3"
+Oct 07 16:01 : player: played "HONNE - Me  You ◑.mp3"
+Oct 07 16:05 : player: played "HONNE - No Place Like Home (feat. JONES).mp3"
+Oct 07 16:09 : player: played "HONNE - Shrink ◐.mp3"
+Oct 07 16:14 : player: played "Phum Viphurit - Lover Boy [Official Video].mp3"
+Oct 07 16:17 : player: played "Timmy Turner Theme Song Remix.mp3"
+Oct 07 19:00 : client: [4] closed
+Oct 07 21:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 21:17 : client: [0] opened from 127.0.0.1:37124
+Oct 07 21:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 21:22 : player: played "Excision  Illenium - Gold (Stupid Love) (ft. Shallows).mp3"
+Oct 07 21:26 : player: played "Gryffin  Illenium ft. Daya - Feel Good [Official Lyric Video].mp3"
+Oct 07 21:32 : player: played "Illenium - Afterlife (feat. ECHOS).mp3"
+Oct 07 21:35 : client: [0] closed
+Oct 07 21:35 : client: [1] opened from 127.0.0.1:37310
+Oct 07 21:35 : client: [1] closed
+Oct 07 21:35 : client: [2] opened from 127.0.0.1:37352
+Oct 07 21:36 : player: played "Illenium - Beautiful Creatures (feat. MAX).mp3"
+Oct 07 21:40 : player: played "ILLENIUM - Crawl Outta Love (feat. Annika Wells) - Official Video.mp3"
+Oct 07 21:42 : client: [3] opened from 127.0.0.1:37672
+Oct 07 21:43 : client: [3] closed
+Oct 07 21:43 : client: [4] opened from 127.0.0.1:37676
+Oct 07 21:43 : client: [2] closed
+Oct 07 21:44 : player: played "Illenium - Fortress (feat. Joni Fatora).mp3"
+Oct 07 21:46 : exception: "pulse audio" [pulse] failed to play: disconnected
+Oct 07 21:46 : player: played "Illenium - Fractures (feat. Nevve).mp3"
+Oct 07 22:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 22:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 22:09 : client: [0] opened from 127.0.0.1:59636
+Oct 07 22:09 : client: [0] closed
+Oct 07 22:09 : client: [1] opened from 127.0.0.1:59638
+Oct 07 22:10 : player: played "Illenium - Fractures (feat. Nevve).mp3"
+Oct 07 22:14 : player: played "Illenium - Free Fall (ft. RUNN).mp3"
+Oct 07 22:17 : player: played "Illenium - Ill Be Your Reason.mp3"
+Oct 07 22:21 : player: played "Illenium - Its All On U ft. Liam ODonnell (T-Mass  LZRD Remix).mp3"
+Oct 07 22:25 : player: played "Illenium - Leaving.mp3"
+Oct 07 22:28 : player: played "Illenium - Let You Go (feat. Ember Island).mp3"
+Oct 07 22:35 : player: played "02 Sabrina Secret Love Song.mp3"
+Oct 07 22:40 : player: played "Sabrina - A Thousand Miles.mp3"
+Oct 07 22:44 : player: played "Sabrina - Hero.mp3"
+Oct 07 22:48 : player: played "Sabrina - Home.mp3"
+Oct 07 22:52 : player: played "Sabrina - I'm With You.mp3"
+Oct 07 22:56 : player: played "Sabrina - Irreplacable.mp3"
+Oct 07 23:00 : player: played "Sabrina - My Guardian Angel.mp3"
+Oct 07 23:04 : player: played "Sabrina - Out Of Reach.mp3"
+Oct 07 23:08 : player: played "Sabrina - Perfect.mp3"
+Oct 07 23:13 : player: played "Sabrina - She Will Be Love.mp3"
+Oct 07 23:17 : player: played "Sabrina - So Sick.mp3"
+Oct 07 23:21 : player: played "Sabrina - Superman.mp3"
+Oct 07 23:25 : player: played "Sabrina - The Reason.mp3"
+Oct 07 23:29 : player: played "Sabrina - Umbrella.mp3"
+Oct 07 23:34 : player: played "Sabrina - Wake Me Up When September Ends.mp3"
+Oct 07 23:38 : player: played "Sabrina - Way Back Into Love.mp3"
+Oct 07 23:41 : player: played "Sabrina - You And Me.mp3"
+Oct 07 23:44 : player: played "Sabrina - You're Beautiful.mp3"
+Oct 07 23:48 : player: played "TroyBoi - Remember.mp3"
+Oct 07 23:50 : client: [1] closed
+Oct 07 23:52 : client: [2] opened from 127.0.0.1:60236
+Oct 07 23:52 : client: [2] closed
+Oct 08 01:05 : player: played "TroyBoi - Afterhours (feat. Diplo & Nina Sky) Official Music Video.mp3"
+Oct 10 09:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 09:11 : client: [0] opened from 127.0.0.1:49670
+Oct 10 09:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 09:16 : player: played "Phum Viphurit - Lover Boy [Official Video].mp3"
+Oct 10 09:19 : player: played "Timmy Turner Theme Song Remix.mp3"
+Oct 10 09:20 : client: [0] closed
+Oct 10 09:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 09:23 : client: [0] opened from 127.0.0.1:51882
+Oct 10 09:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 09:28 : player: played "Rhye - Open.mp3"
+Oct 10 09:33 : player: played "Childish Gambino - Redbone (Official Audio).mp3"
+Oct 10 09:38 : player: played "Excision  Illenium - Gold (Stupid Love) (ft. Shallows).mp3"
+Oct 10 09:42 : player: played "Gryffin  Illenium ft. Daya - Feel Good [Official Lyric Video].mp3"
+Oct 10 09:48 : player: played "Illenium - Afterlife (feat. ECHOS).mp3"
+Oct 10 09:52 : player: played "Illenium - Beautiful Creatures (feat. MAX).mp3"
+Oct 10 09:56 : player: played "ILLENIUM - Crawl Outta Love (feat. Annika Wells) - Official Video.mp3"
+Oct 10 09:59 : player: played "Illenium - Fortress (feat. Joni Fatora).mp3"
+Oct 10 10:03 : player: played "Illenium - Fractures (feat. Nevve).mp3"
+Oct 10 10:07 : player: played "Illenium - Free Fall (ft. RUNN).mp3"
+Oct 10 10:11 : player: played "Illenium - Ill Be Your Reason.mp3"
+Oct 10 10:14 : player: played "Illenium - Its All On U ft. Liam ODonnell (T-Mass  LZRD Remix).mp3"
+Oct 10 10:18 : player: played "Illenium - Leaving.mp3"
+Oct 10 10:21 : player: played "Illenium - Let You Go (feat. Ember Island).mp3"
+Oct 10 10:32 : player: played "Illenium - Needed You (feat. Dia Frampton).mp3"
+Oct 10 10:37 : player: played "Illenium - Reverie (feat. King Deco).mp3"
+Oct 10 10:41 : player: played "Illenium - Sleepwalker (feat. Joni Fatora).mp3"
+Oct 10 10:46 : player: played "Illenium ft. Emilie Brandt - Lost (WE ARE FURY Remix).mp3"
+Oct 10 10:51 : player: played "Illenium MitiS  Said The Sky - All I Got X Moments X Sound of Walking Away [Nick Gunner Mashup].mp3"
+Oct 10 10:55 : player: played "02 Sabrina Secret Love Song.mp3"
+Oct 10 10:59 : player: played "Sabrina - A Thousand Miles.mp3"
+Oct 10 11:04 : player: played "Sabrina - Hero.mp3"
+Oct 10 11:08 : player: played "Sabrina - Home.mp3"
+Oct 10 11:11 : player: played "Sabrina - I'm With You.mp3"
+Oct 10 11:15 : player: played "Sabrina - Irreplacable.mp3"
+Oct 10 11:20 : player: played "Sabrina - My Guardian Angel.mp3"
+Oct 10 11:23 : player: played "Sabrina - Out Of Reach.mp3"
+Oct 10 11:28 : player: played "Sabrina - Perfect.mp3"
+Oct 10 11:32 : player: played "Sabrina - She Will Be Love.mp3"
+Oct 10 11:37 : player: played "Sabrina - So Sick.mp3"
+Oct 10 11:40 : player: played "Sabrina - Superman.mp3"
+Oct 10 11:44 : player: played "Sabrina - The Reason.mp3"
+Oct 10 12:05 : player: played "Sabrina - Umbrella.mp3"
+Oct 10 12:10 : player: played "Sabrina - Wake Me Up When September Ends.mp3"
+Oct 10 12:14 : player: played "Sabrina - Way Back Into Love.mp3"
+Oct 10 12:17 : player: played "Sabrina - You And Me.mp3"
+Oct 10 12:20 : player: played "Sabrina - You're Beautiful.mp3"
+Oct 10 12:24 : player: played "TroyBoi - Remember.mp3"
+Oct 10 12:28 : player: played "TroyBoi - Afterhours (feat. Diplo & Nina Sky) Official Music Video.mp3"
+Oct 10 12:32 : player: played "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO).mp3"
+Oct 10 12:36 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 10 12:38 : player: played "Gentle Bones - I Wouldnt Know Any Better Than You (Lyric Video).mp3"
+Oct 10 12:40 : client: [0] closed
+Oct 10 12:40 : exception: "pulse audio" [pulse] failed to play: disconnected
+xcb_connection_has_error() returned true
+Failed to create secure directory (/run/user/1000/pulse): No such file or directory
+Oct 10 12:40 : exception: Failed to open "pulse audio" [pulse]
+Oct 10 12:40 : exception: nested: pa_context_connect() has failed: Connection refused
+Oct 10 12:40 : player: played "HONNE - Day 1 ◑.mp3"
+Oct 10 15:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 15:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 15:23 : client: [0] opened from 127.0.0.1:45670
+Oct 10 15:25 : player: played "HONNE - Day 1 ◑.mp3"
+Oct 10 15:29 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 10 15:33 : player: played "HONNE - I Might ◑.mp3"
+Oct 10 15:38 : player: played "HONNE - Location Unknown ◐ (feat. Georgia).mp3"
+Oct 10 15:42 : player: played "HONNE - Me  You ◑.mp3"
+Oct 10 15:47 : player: played "HONNE - No Place Like Home (feat. JONES).mp3"
+Oct 10 15:51 : player: played "HONNE - Shrink ◐.mp3"
+Oct 10 15:56 : player: played "Phum Viphurit - Lover Boy [Official Video].mp3"
+Oct 10 15:59 : player: played "Timmy Turner Theme Song Remix.mp3"
+Oct 10 16:04 : player: played "TroyBoi - Afterhours (feat. Diplo & Nina Sky) Official Music Video.mp3"
+Oct 10 16:08 : player: played "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO).mp3"
+Oct 10 16:12 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 10 16:14 : player: played "Gentle Bones - I Wouldnt Know Any Better Than You (Lyric Video).mp3"
+Oct 10 16:18 : player: played "HONNE - Day 1 ◑.mp3"
+Oct 10 16:22 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 10 16:26 : player: played "HONNE - I Might ◑.mp3"
+Oct 10 16:31 : player: played "HONNE - Location Unknown ◐ (feat. Georgia).mp3"
+Oct 10 16:35 : player: played "HONNE - Me  You ◑.mp3"
+Oct 10 16:39 : player: played "HONNE - No Place Like Home (feat. JONES).mp3"
+Oct 10 16:43 : player: played "HONNE - Shrink ◐.mp3"
+Oct 10 16:49 : player: played "Phum Viphurit - Lover Boy [Official Video].mp3"
+Oct 10 16:52 : player: played "Timmy Turner Theme Song Remix.mp3"
+Oct 10 17:03 : client: [0] closed
+Oct 10 17:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 17:21 : client: [0] opened from 127.0.0.1:32936
+Oct 10 17:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 17:22 : client: [0] closed
+Oct 10 17:22 : client: [1] opened from 127.0.0.1:33186
+Oct 10 17:24 : client: [2] opened from 127.0.0.1:33202
+Oct 10 17:25 : player: played "HONNE - Day 1 ◑.mp3"
+Oct 10 17:25 : client: [1] closed
+Oct 10 17:26 : client: [3] opened from 127.0.0.1:33204
+Oct 10 17:26 : client: [2] closed
+Oct 10 17:26 : client: [4] opened from 127.0.0.1:33208
+Oct 10 17:26 : client: [4] closed
+Oct 10 17:29 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 10 17:33 : player: played "HONNE - I Might ◑.mp3"
+Oct 10 17:37 : client: [5] opened from 127.0.0.1:33236
+Oct 10 17:37 : client: [3] closed
+Oct 10 17:38 : client: [5] closed
+Oct 10 17:38 : client: [6] opened from 127.0.0.1:33240
+Oct 10 17:38 : client: [6] closed
+Oct 10 17:38 : client: [7] opened from 127.0.0.1:33242
+Oct 10 17:38 : player: played "HONNE - Location Unknown ◐ (feat. Georgia).mp3"
+Oct 10 17:42 : player: played "HONNE - Me  You ◑.mp3"
+Oct 10 17:43 : client: [8] opened from 127.0.0.1:33250
+Oct 10 17:43 : client: [8] closed
+Oct 10 17:43 : client: [9] opened from 127.0.0.1:33254
+Oct 10 17:43 : client: [9] closed
+Oct 10 17:43 : client: [10] opened from 127.0.0.1:33256
+Oct 10 17:44 : client: [11] opened from 127.0.0.1:33258
+Oct 10 17:44 : client: [11] closed
+Oct 10 17:44 : client: [10] closed
+Oct 10 17:44 : client: [12] opened from 127.0.0.1:33260
+Oct 10 17:45 : client: [12] closed
+Oct 10 17:45 : client: [13] opened from 127.0.0.1:33262
+Oct 10 17:46 : client: [13] closed
+Oct 10 17:46 : client: [14] opened from 127.0.0.1:33264
+Oct 10 17:46 : client: [14] closed
+Oct 10 17:47 : client: [15] opened from 127.0.0.1:33268
+Oct 10 17:47 : client: [16] opened from 127.0.0.1:33274
+Oct 10 17:48 : client: [7] closed
+Oct 10 17:49 : client: [17] opened from 127.0.0.1:33288
+Oct 10 17:49 : client: [15] closed
+Oct 10 17:52 : player: played "Gryffin  Illenium ft. Daya - Feel Good [Official Lyric Video].mp3"
+Oct 10 18:27 : client: [17] closed
+Oct 10 18:27 : client: [18] opened from 127.0.0.1:34716
+Oct 10 18:27 : client: [18] closed
+Oct 10 18:27 : client: [19] opened from 127.0.0.1:34718
+Oct 10 18:29 : player: played "Illenium - Needed You (feat. Dia Frampton).mp3"
+Oct 10 18:32 : client: [20] opened from 127.0.0.1:34836
+Oct 10 18:32 : client: [20] closed
+Oct 10 18:32 : client: [21] opened from 127.0.0.1:34838
+Oct 10 18:33 : client: [21] closed
+Oct 10 18:33 : client: [22] opened from 127.0.0.1:34842
+Oct 10 18:33 : client: [22] closed
+Oct 10 18:33 : player: played "Illenium - Reverie (feat. King Deco).mp3"
+Oct 10 18:49 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 10 18:53 : client: [19] closed
+Oct 10 18:53 : client: [16] closed
+Oct 10 18:53 : player: played "HONNE - I Might ◑.mp3"
+Oct 10 18:58 : player: played "HONNE - Location Unknown ◐ (feat. Georgia).mp3"
+Oct 10 19:02 : player: played "HONNE - Me  You ◑.mp3"
+Oct 10 19:06 : player: played "HONNE - No Place Like Home (feat. JONES).mp3"
+Oct 10 19:10 : player: played "HONNE - Shrink ◐.mp3"
+Oct 10 19:16 : player: played "Phum Viphurit - Lover Boy [Official Video].mp3"
+Oct 10 19:19 : player: played "Timmy Turner Theme Song Remix.mp3"
+Oct 10 19:23 : client: [23] opened from 127.0.0.1:36718
+Oct 10 19:26 : client: [23] closed
+Oct 10 19:27 : player: played "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO).mp3"
+Oct 10 19:31 : player: played "HONNE - Feels So Good ◑ (feat. Anna Of The North).mp3"
+Oct 10 19:33 : client: [24] opened from 127.0.0.1:37514
+Oct 10 19:37 : client: [24] closed
+Oct 10 19:37 : player: played "Post Malone - Congratulations ft. Quavo.mp3"
+Oct 10 19:40 : player: played "Mark Petrie - Epiphany(Extended Mix).mp3"
+Oct 10 19:44 : player: played "Rhye - Open.mp3"
+Oct 10 19:49 : player: played "Childish Gambino - Redbone (Official Audio).mp3"
+Oct 10 19:51 : player: played "Excision  Illenium - Gold (Stupid Love) (ft. Shallows).mp3"
+Oct 10 21:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 21:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 21:03 : client: [0] opened from 127.0.0.1:58046
+Oct 10 21:03 : update: added /Jonas Blue - Rise ft. Jack Jack.mp3
+Oct 10 21:03 : update: added /Monita Tahalea - Memulai Kembali.mp3
+Oct 10 21:03 : update: added /Ariana Grande - Dangerous Woman.mp3
+Oct 10 21:03 : update: removing JAJAL/Monita_Tahalea_--_Memulai_Kembali_Official_Video-hRk1p5e34Ns.mp3
+Oct 10 21:03 : update: removing JAJAL/Jonas_Blue_-_Rise_ft._Jack_Jack-btrzs54s1Rc.mp3
+Oct 10 21:03 : update: removing JAJAL/Ariana Grande - Dangerous Woman.mp3
+Oct 10 21:03 : update: removing JAJAL/Anne-Marie_-_2002_Official_Video-Il-an3K9pjg.mp3
+Oct 10 21:03 : update: added /Anne-Marie - 2002.mp3
+Oct 10 21:08 : player: played "Monita Tahalea - Memulai Kembali.mp3"
+Oct 10 21:14 : player: played "Anne-Marie - 2002.mp3"
+Oct 10 21:17 : player: played "Ariana Grande - Dangerous Woman.mp3"
+Oct 10 21:24 : client: [0] closed
