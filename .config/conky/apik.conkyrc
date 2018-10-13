@@ -1,0 +1,61 @@
+conky.config = {
+own_window = true,
+own_window_type = 'desktop',
+own_window_transparent = true,
+own_window_hints = 'undecorated,below,skip_taskbar,skip_pager,sticky',
+own_window_colour = '#000000',
+own_window_class = 'Conky',
+minimum_width = 390,
+minimum_height = 150,
+maximum_width = 580,
+gap_x = 1010,--## left | right
+gap_y = 10,--## up | down
+alignment = 'top_left',
+use_xft = true,
+--xftfont Liberation Mono:bold:size=9
+font = 'Roboto:size=10',
+override_utf8_locale = true,
+uppercase = false,
+draw_shades = false,--yes
+default_shade_color = 'black',
+draw_outline = false,
+default_outline_color = 'black',
+default_color = '#ffffff',-- PureWhite
+color0 = '#5DACBF',-- Blue
+color1 = '#778899',-- LightSlateGray
+color2 = '#D8BFD8',-- Thistle
+color3 = '#9ACD32',-- YellowGreen
+color4 = '#FFA07A',-- LightSalmon
+color5 = '#FFDEAD',-- NavajoWhite
+color6 = '#00BFFF',-- DeepSkyBlue
+color7 = '#43D0E3',-- CadetBlue
+color8 = '#BDB76B',-- DarkKhaki
+color9 = '#CD5C5C',-- IndianRed
+draw_borders = false,
+stippled_borders = 5,
+border_inner_margin = 5,
+border_outer_margin = 0,
+border_width = 2,
+background = true,
+use_spacer = 'none',
+no_buffers = true,
+short_units = true,
+pad_percents = 2,
+imlib_cache_size = 0,
+double_buffer = true,
+update_interval = 1,
+};
+conky.text = [[
+${goto 10}
+${font Analecta:thin:pixelsize=13}${image /home/b3we/Pictures/wallpaper/jihyoo.jpg -p -35,21 -s 200x200}${offset 170}${color0}Host$alignr${color7}$nodename
+${offset 170}${color0}Kernel$alignr${color7}$kernel
+${offset 170}${color0}Uptime$alignr${color7}$uptime
+${offset 170}${color0}RAM$alignr${color7}$mem/$memmax
+${offset 170}${color0}Root usage$alignr${color7}${fs_used /}/${fs_size /}
+${alignr}< ${fs_bar 5,120 /} >
+${offset 170}${color0}Home usage$alignr${color7}${fs_used /home}/${fs_size /home}
+${alignr}< ${fs_bar 5,120 /home/} >
+${offset 170}${color0}Connection$alignr${color7}${upspeed wlp3s0} k/s
+${alignr}< ${upspeedgraph wlp3s0 8,120 8b2132 fe8608} > 
+${offset 170}${color0}CPU Temp$alignr${color7}${acpitemp}°C
+]];

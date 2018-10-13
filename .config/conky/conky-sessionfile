@@ -1,0 +1,1 @@
+conky -c /home/b3we/.config/conky/dy.conkyrc & sleep 0.5

@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Materialize/schemes/Material Stereokai.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_small_tab": true,
+	"theme": "Material Stereokai.sublime-theme"
+}

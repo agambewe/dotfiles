@@ -1,0 +1,1283 @@
+{
+	"folder_history":
+	[
+		"/home/b3we/.ncmpcpp",
+		"/home/b3we/.xrdb",
+		"/home/b3we/.themes/ArchBew",
+		"/home/b3we/.tmux",
+		"/opt/lampp/htdocs/lat/upload",
+		"/opt/lampp/htdocs",
+		"/opt/lampp/htdocs/lat/BJ",
+		"/opt/lampp/htdocs/lat/KSL",
+		"/opt/lampp/htdocs/hima",
+		"/opt",
+		"/home/b3we/Documents/Project/oprecKSL",
+		"/opt/lampp/htdocs/lat/postget",
+		"/home/b3we/Downloads/bootstrap",
+		"/home/b3we/Downloads/bootstrap/js"
+	],
+	"last_version": 3176,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"menit",
+						"menit2"
+					],
+					[
+						"background-",
+						"background-color"
+					],
+					[
+						"backgo",
+						"background"
+					],
+					[
+						"con",
+						"connect"
+					],
+					[
+						"unse",
+						"unset"
+					],
+					[
+						"head",
+						"header"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"todo",
+						"todos"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"data",
+						"dataa"
+					],
+					[
+						"file_",
+						"file_put_contents"
+					],
+					[
+						"bord",
+						"border-style"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"packe",
+						"Package Control: Install Package"
+					],
+					[
+						"VIEW",
+						"View: Toggle Menu"
+					],
+					[
+						"material",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"materi",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"materia",
+						"Material Theme: Activate theme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package control in",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 143.0,
+				"history":
+				[
+					"ls",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/b3we/Documents/Nyekrip/BEKAP/color-bew",
+				"/home/b3we/.config/rofi/config",
+				"/home/b3we/Documents/Nyekrip/BEKAP/themerc",
+				"/home/b3we/.config/polybar/config.conf",
+				"/usr/bin/obmenu-generator",
+				"/home/b3we/.config/obmenu-generator/config.pl",
+				"/home/b3we/.config/obmenu-generator/applications.pl",
+				"/home/b3we/.config/obmenu-generator/cache.db",
+				"/home/b3we/.config/obmenu-generator/schema.pl",
+				"/home/b3we/.config/openbox/menu.xml",
+				"/usr/bin/rofr.sh",
+				"/home/b3we/.config/neofetch/config.bk",
+				"/usr/bin/lockscreen",
+				"/usr/share/manjaro/doc/helpfile-menu.txt",
+				"/home/b3we/.config/obmenu-generator/lockscreen",
+				"/home/b3we/.config/neofetch/config.conf",
+				"/usr/bin/nrnl.sh",
+				"/home/b3we/.config/obmenu-generator/rofr.sh",
+				"/home/b3we/.config/obmenu-generator/schema.pl.bk",
+				"/home/b3we/.themes/ArchBew/openbox-3/themerc",
+				"/home/b3we/.config/jgmenu/jgmenurc",
+				"/home/b3we/.utility/rofi-apps",
+				"/home/b3we/.config/tint2/liness.tint2rc",
+				"/home/b3we/.Xresources",
+				"/home/b3we/.config/jgmenu/prepend.csv",
+				"/home/b3we/.config/jgmenu/append.csv",
+				"/home/b3we/.config/tint2/tint2rc.bk",
+				"/home/b3we/.config/tint2/tint2rc",
+				"/usr/share/rofi/themes/DarkBlue.rasi",
+				"/usr/bin/networkmanager_dmenu",
+				"/home/b3we/.local/share/file-manager/actions/root.desktop",
+				"/home/b3we/.local/share/file-manager/actions/open folder as root.desktop",
+				"/usr/bin/pcmanfm",
+				"/home/b3we/Downloads/TGS_Prak2_A_9139.zip",
+				"/home/b3we/Downloads/a-file-icon-3.2.2.zip",
+				"/home/b3we/usr/bin/rofr.sh",
+				"/home/b3we/.xrdb/fonts/tewi",
+				"/usr/share/rofi/themes/.xrdb/fonts/tewi",
+				"/home/b3we/.zshrc",
+				"/home/b3we/.xrdb/rofi/nord",
+				"/usr/lib/urxvt/urxvt.pm",
+				"/home/b3we/.zshrc.bk",
+				"/home/b3we/.oh-my-zsh/themes/b3we.zsh-theme",
+				"/usr/share/rofi/themes/b3we.rasi",
+				"/home/b3we/.zshrc.ohmy",
+				"/usr/share/rofi/themes/android_notification.rasi",
+				"/home/b3we/.themes/ArchBew/openbox-3/iconify_hover.xbm",
+				"/home/b3we/.oh-my-zsh/oh-my-zsh.sh",
+				"/home/b3we/.ncmpcpp/config",
+				"/home/b3we/.xrdb/color/bew",
+				"/home/b3we/.profile",
+				"/home/b3we/.config/openbox/rc.xml",
+				"/home/b3we/Downloads/Boxy Theme.sublime-package",
+				"/usr/lib/urxvt/perl/tabbed",
+				"/home/b3we/.themes/myobtheme/openbox-3/themerc",
+				"/home/b3we/.themes/Arc_OSX/openbox-3/themerc",
+				"/usr/bin/mako-render",
+				"/home/b3we/.tmux.conf",
+				"/home/b3we/.config/openbox/autostart",
+				"/home/b3we/.config/conky/apik.conkyrc",
+				"/home/b3we/Downloads/cj.php",
+				"/opt/lampp/htdocs/lat/BJ/a.php",
+				"/home/b3we/.oh-my-zsh/themes/minia.zsh-theme",
+				"/usr/bin/check-network",
+				"/home/b3we/.aliases",
+				"/home/b3we/.config/autostart/guake.desktop",
+				"/.config/obmenu-generator",
+				"/.config/obmenu-generator/config.pl",
+				"/home/b3we/.config/openbox/menu-switcher/menu-static.xml",
+				"/home/b3we/.config/openbox/mennuu.xml",
+				"/home/b3we/.config/openbox/menu-switcher/menu-static.xml.bak",
+				"/home/b3we/.config/polybar/BK/modules.conf",
+				"/home/b3we/.config/polybar/BK/master.conf",
+				"/home/b3we/.bashrc",
+				"/home/b3we/Documents/WIKU/KaEsPa.txt",
+				"/home/b3we/.config/polybar/config",
+				"/home/b3we/.config/polybar/bar1",
+				"/home/b3we/Downloads/BOX/_conkyrc",
+				"/home/b3we/.config/conky/Openbox-Illyria-Light-System.conkyrc",
+				"/home/b3we/.config/tint2/config",
+				"/home/b3we/.config/tint2/pager.tint2rc",
+				"/home/b3we/Downloads/aa.mp3",
+				"/home/b3we/Downloads/server.py",
+				"/home/b3we/Downloads/user.php",
+				"/home/b3we/Downloads/9/pm/Challenge/Challengerun.c",
+				"/home/b3we/Downloads/9/am/soal dev challenge.c",
+				"/home/b3we/Downloads/9/am/fix Challenge Sekuens_Elvina Diana Limartha_180709701/Challenge Sekuens DEV C++ fix.c",
+				"/home/b3we/Downloads/athena.c",
+				"/home/b3we/Downloads/bonus3.txt",
+				"/home/b3we/Downloads/bonus3.7z",
+				"/home/b3we/Documents/alilililin/bonus1.jpg",
+				"/opt/lampp/htdocs/lat/KSL/index.php",
+				"/opt/lampp/htdocs/lat/KSL/list.php",
+				"/srv/http/index.html",
+				"/home/b3we/csrf.html",
+				"/home/b3we/.bash",
+				"/opt/lampp/htdocs/lat/KSL/daftar.php",
+				"/opt/lampp/htdocs/hima/delete.php",
+				"/opt/lampp/htdocs/hima/accept.php",
+				"/opt/lampp/htdocs/hima/list.php",
+				"/opt/lampp/htdocs/hima/index.php",
+				"/opt/lampp/htdocs/hima/konek.php",
+				"/home/b3we/Downloads/b.txt",
+				"/home/b3we/.config/openbox/kbinds.txt",
+				"/home/b3we/.config/jgmenu/jqmenurc.bk",
+				"/opt/lampp/htdocs/lat/database/yolo.php",
+				"/opt/lampp/htdocs/lat/database/konek.php",
+				"/opt/lampp/htdocs/lat/todo/index.php",
+				"/opt/lampp/htdocs/lat/file/index.php",
+				"/opt/lampp/htdocs/lat/index.php",
+				"/home/b3we/Documents/Project/oprecKSL/signup.php",
+				"/home/b3we/Documents/Nyekrip/adm.php",
+				"/home/b3we/Downloads/bootstrap/index.html",
+				"/opt/lampp/htdocs/lat/tabel.html",
+				"/home/b3we/Documents/Project/test.html"
+			],
+			"find":
+			{
+				"height": 28.971028971
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"under",
+					"272727",
+					"# ",
+					"#",
+					"pkgname",
+					"type pass",
+					"text",
+					"pixelat",
+					"scro",
+					"iconpath",
+					"img=",
+					"img",
+					"B48EAD",
+					"81A1C1",
+					"under",
+					"2f343f",
+					"urxvt*",
+					"font",
+					"Passphrase",
+					"lao",
+					"trans",
+					"red",
+					"tab-fg",
+					"fg",
+					"color",
+					"#",
+					"red",
+					"label",
+					"lavel",
+					"center",
+					"title",
+					"2f343f",
+					"clie",
+					"hover",
+					"batt"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"96362A",
+					"! ",
+					"!",
+					"272727",
+					"*.",
+					"e7e8eb",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.971028971
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 53.9460539461
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 181.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"menit",
+						"menit2"
+					],
+					[
+						"background-",
+						"background-color"
+					],
+					[
+						"backgo",
+						"background"
+					],
+					[
+						"con",
+						"connect"
+					],
+					[
+						"unse",
+						"unset"
+					],
+					[
+						"head",
+						"header"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"todo",
+						"todos"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"data",
+						"dataa"
+					],
+					[
+						"file_",
+						"file_put_contents"
+					],
+					[
+						"bord",
+						"border-style"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/b3we/.xrdb/color/bew",
+					"settings":
+					{
+						"buffer_size": 447,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/b3we/.config/jgmenu/jgmenurc",
+					"settings":
+					{
+						"buffer_size": 1832,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/usr/bin/obmenu-generator",
+					"settings":
+					{
+						"buffer_size": 23685,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/b3we/.themes/ArchBew/openbox-3/themerc",
+					"settings":
+					{
+						"buffer_size": 6929,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/b3we/.config/polybar/config.conf",
+					"settings":
+					{
+						"buffer_size": 3578,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/b3we/.config/obmenu-generator/schema.pl",
+					"settings":
+					{
+						"buffer_size": 4510,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/b3we/.vimrc",
+					"settings":
+					{
+						"buffer_size": 3117,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html>\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <title>“”的Encoding,“”的编码,“”的编码大全,“”的字符编码</title>\n    <meta name=\"keywords\" content=\"“”的Encoding,“”的编码,“”的编码大全,“”的字符编码\" />\n    <meta name=\"description\" content=\"“”的Encoding,“”的编码,“”的编码大全,“”的字符编码\" />\n    \n    <link href=\"http://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/Content/css/global.css\" rel=\"stylesheet\" type=\"text/css\" />\n    \n    <script src=\"http://apps.bdimg.com/libs/jquery/1.11.1/jquery.min.js\" type=\"text/javascript\"></script>\n    \n    <script src=\"http://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js\" type=\"text/javascript\"></script>\n    <script src=\"/Scripts/index.js\" type=\"text/javascript\"></script>\n    \n</head>\n<body>\n    <div id=\"header\">\n        <h1>\n            <a href=\"/\" id=\"logo\" title=\"趣味数学\">趣味数学</a>\n        </h1>\n        <div id=\"tophome\">\n            <a class=\"h\" onclick=\"this.style.behavior='url(#default#homepage)';this.setHomePage('www.haomeili.net');return false;\"\n               href=\"javascript:void();\">设为首页</a> <a class=\"s\" onclick=\"javascript:AddFavorite('www.haomeili.net','趣味数学');return false;\"\n                                                     href=\"javascript:void();\">收藏本站</a><a title=\"RGB转16进制\" target=\"_blank\" href=\"/RGBZhuan16JinZhi\">RGB转16进制</a>  <a href=\"/SouSuo/index.htm\" target=\"_blank\" title=\"搜索大全\">搜索大全</a>\n            <a class=\"s\" style=\"color: #f00;\" href=\"/ZhiShiDaQuan\">相关知识</a>\n        </div>\n        <!--nav-->\n        <div class=\"menu navbar navbar-default\">\n            <ul class=\"nav navbar-nav\">\n                <li><a href=\"/\" title=\"首页\" class=\"m0\"><i class=\"i1 r1 png\"></i><i class=\"i2 png\"></i><i class=\"i3 png\"></i><strong class=\"s1\">首页</strong><strong class=\"s2\">首页</strong></a></li>\n                    <li><a href=\"/Code/DaQuan\" title=\"编码\" class=\"m5\"><i class=\"i1 r1 png\"></i><i class=\"i2 png\"></i><i class=\"i3 png\"></i><strong class=\"s1\">编码</strong><strong class=\"s2\">编码</strong></a></li>\n                    <li><a href=\"/ZhiShu?zhiShu=100\" title=\"质数\" class=\"m5\"><i class=\"i1 r2 png\"></i><i class=\"i2 png\"></i><i class=\"i3 png\"></i><strong class=\"s1\">质数</strong><strong class=\"s2\">质数</strong></a></li>\n                    <li><a href=\"/HeShu?heShu=100\" title=\"合数\" class=\"m5\"><i class=\"i1 r3 png\"></i><i class=\"i2 png\"></i><i class=\"i3 png\"></i><strong class=\"s1\">合数</strong><strong class=\"s2\">合数</strong></a></li>\n                    <li><a href=\"/GouGuShu?gouGuShu=100\" title=\"勾股数\" class=\"m5\"><i class=\"i1 r4 png\"></i><i class=\"i2 png\"></i><i class=\"i3 png\"></i><strong class=\"s1\">勾股数</strong><strong class=\"s2\">勾股数</strong></a></li>\n                    <li><a href=\"/JieCheng?JieCheng=100\" title=\"阶乘\" class=\"m5\"><i class=\"i1 r5 png\"></i><i class=\"i2 png\"></i><i class=\"i3 png\"></i><strong class=\"s1\">阶乘</strong><strong class=\"s2\">阶乘</strong></a></li>\n                    <li><a href=\"/DaojiShi/JieRi\" title=\"倒计时\" class=\"m5\"><i class=\"i1 r6 png\"></i><i class=\"i2 png\"></i><i class=\"i3 png\"></i><strong class=\"s1\">倒计时</strong><strong class=\"s2\">倒计时</strong></a></li>\n                    <li><a href=\"/String/Index\" title=\"字符串\" class=\"m5\"><i class=\"i1 r7 png\"></i><i class=\"i2 png\"></i><i class=\"i3 png\"></i><strong class=\"s1\">字符串</strong><strong class=\"s2\">字符串</strong></a></li>\n            </ul>\n        </div>\n        <!--nav end /-->\n\n    </div>\n    <div class=\"w1000\">\n        \n<style>\n    .search .jg { padding-right: 15px; color: #999; }\n</style>\n<div class=\"search\">\n    <form class=\"form-inline\" role=\"form\" method=\"get\" action=\"/Search\">\n        <table>\n            <tr>\n                <td class=\"jg\">\n                    关键词:\n                </td>\n                <td>\n                    <div class=\"input-group\">\n                        <input class=\"form-control\" name=\"key\" style=\"width:200px;\" maxlength=\"20\" />\n                    </div>\n                </td>\n                <td class=\"jg\">\n                    <button class=\"btn btn-info\" id=\"btnSearch\" type=\"submit\" style=\"margin-left: 10px;\"> 搜索 </button>\n                </td>\n                <td class=\"jg\" style=\"color:#FF8C00;\">\n                        <a href=\"/Search?key=Ž\" target=\"_blank\">Ž</a>\n                        <a href=\"/Search?key=斡斓鳪㫡\" target=\"_blank\">斡斓鳪㫡</a>\n                        <a href=\"/Search?key=23,29€&#39; or (1=1 and 1=2) and &#39;a&#39;=&#39;a\" target=\"_blank\">23,29€&#39; or (1=1 and 1=2) and &#39;a&#39;=&#39;a</a>\n                </td>\n                <td class=\"jg\"></td>\n            </tr>\n        </table>\n    </form>\n</div>\n         \n<div style=\"margin: 5px auto 10px; width: 965px;\">\n    \n    <script type=\"text/javascript\" src=\"http://rgb.yansedaquan.com/jetmtbawdhlfgmk.js\"></script>\n\n</div>\n\n        \n\n<form class=\"form-inline\" role=\"form\" method=\"get\">\n    <div class=\"search\">\n        <table>\n            <tr>\n                <td>\n                    <div class=\"qianse\">\n                        请输入查询关键字 &nbsp;\n                    </div>\n                </td>\n                <td>\n                    <div class=\"input-group\">\n                        <div class=\"input-group-addon\"></div>\n                        <input class=\"form-control\" type=\"text\" id=\"wd\" style=\" width:400px \" name=\"wd\" maxlength=\"64\" value=\"\" placeholder=\"请输入查询关键字\">\n                    </div>\n                </td>\n                <td>\n                    <button class=\"btn btn-info\" id=\"btnSearch\" type=\"submit\" style=\"margin-left: 10px; width: 100px\">搜索</button>\n                </td>\n            </tr>\n        </table>\n\n    </div>\n</form>\n\n\n \n<style>\n    .unicode { font-size: 12px; }\n</style>\n<table class=\"table table-bordered table-striped table-hover unicode\">\n    <caption><h3> 编码相关信息</h3></caption>\n    <tbody>\n            <tr>\n                <td>Unicode(10进制)</td>\n                <td class=\"success\">58371</td>\n                <td>Unicode(16进制)</td>\n                <td class=\"success\">E403</td>\n                <td>HTML实体(10进制)</td>\n                <td class=\"success\">&amp;#58371;</td>\n                <td>HTML实体(16进制)</td>\n                <td class=\"success\">&amp;#xE403;</td>\n                <td>JavaScript(ASCII)</td>\n                <td class=\"success\">\\uE403</td>\n            </tr>\n    </tbody>\n</table>\n\n<style>\n    .zt_warn { color: #f00; }\n</style>\n<div class=\"panel panel-info\">\n    <div class=\"panel-heading\">\n        <div class=\"panel-title\">\n            <h3 class=\"panel-title title\">“”的Encoding,“”的编码,“”的编码大全,“”的字符编码</h3>\n        </div>\n    </div>\n    <div class=\"panel-body\">\n        <table class=\"table table-hover table-bordered \">\n            <thead>\n                <tr>\n                    <th>字符</th>\n                    <th>名称</th>\n                    <th>编号</th>\n                    <th>代码页标识符</th>\n                    <th>单符编码</th>\n                </tr>\n            </thead>\n            <tbody>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            日语(Shift-JIS)\n                        </td>\n                        <td>932</td>\n                        <td>shift_jis </td>\n                        <td class=\"zt_warn\">F598</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            简体中文(GB2312)\n                        </td>\n                        <td>936</td>\n                        <td>gb2312 </td>\n                        <td class=\"zt_warn\">FCF8</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            繁体中文(Big5)\n                        </td>\n                        <td>950</td>\n                        <td>big5 </td>\n                        <td class=\"zt_warn\">8FB7</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            Unicode\n                        </td>\n                        <td>1200</td>\n                        <td>utf-16 </td>\n                        <td class=\"zt_warn\">03E4</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            Unicode (Big-Endian)\n                        </td>\n                        <td>1201</td>\n                        <td>utf-16BE </td>\n                        <td class=\"zt_warn\">E403</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            日语(Mac)\n                        </td>\n                        <td>10001</td>\n                        <td>x-mac-japanese </td>\n                        <td class=\"zt_warn\">F598</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            繁体中文(Mac)\n                        </td>\n                        <td>10002</td>\n                        <td>x-mac-chinesetrad </td>\n                        <td class=\"zt_warn\">87B7</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            Unicode (UTF-32)\n                        </td>\n                        <td>12000</td>\n                        <td>utf-32 </td>\n                        <td class=\"zt_warn\">03E40000</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            Unicode (UTF-32 Big-Endian)\n                        </td>\n                        <td>12001</td>\n                        <td>utf-32BE </td>\n                        <td class=\"zt_warn\">0000E403</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            繁体中文(CNS)\n                        </td>\n                        <td>20000</td>\n                        <td>x-Chinese-CNS </td>\n                        <td class=\"zt_warn\">FD78</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            TCA 中国台湾\n                        </td>\n                        <td>20001</td>\n                        <td>x-cp20001 </td>\n                        <td class=\"zt_warn\">E499</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            IBM5550 中国台湾\n                        </td>\n                        <td>20003</td>\n                        <td>x-cp20003 </td>\n                        <td class=\"zt_warn\">D498</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            Wang 中国台湾\n                        </td>\n                        <td>20005</td>\n                        <td>x-cp20005 </td>\n                        <td class=\"zt_warn\">E14A</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            日语(JIS 0208-1990 和 0212-1990)\n                        </td>\n                        <td>20932</td>\n                        <td>EUC-JP </td>\n                        <td class=\"zt_warn\">F578</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            日语(JIS)\n                        </td>\n                        <td>50220</td>\n                        <td>iso-2022-jp </td>\n                        <td class=\"zt_warn\">1B244289781B2842</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            日语(JIS-允许 1 字节假名)\n                        </td>\n                        <td>50221</td>\n                        <td>csISO2022JP </td>\n                        <td class=\"zt_warn\">1B244289781B2842</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            日语(JIS-允许 1 字节假名 - SO/SI)\n                        </td>\n                        <td>50222</td>\n                        <td>iso-2022-jp </td>\n                        <td class=\"zt_warn\">1B244289781B2842</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            简体中文(ISO-2022)\n                        </td>\n                        <td>50227</td>\n                        <td>x-cp50227 </td>\n                        <td class=\"zt_warn\">FCF8</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            简体中文(EUC)\n                        </td>\n                        <td>51936</td>\n                        <td>EUC-CN </td>\n                        <td class=\"zt_warn\">FCF8</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            简体中文(GB18030)\n                        </td>\n                        <td>54936</td>\n                        <td>GB18030 </td>\n                        <td class=\"zt_warn\">FCF8</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            Unicode (UTF-7)\n                        </td>\n                        <td>65000</td>\n                        <td>utf-7 </td>\n                        <td class=\"zt_warn\">2B35414D2D</td>\n                    </tr>\n                    <tr>\n                        <th class=\"zt_warn\">\n                            \n                        </th>\n                        <td>\n                            Unicode (UTF-8)\n                        </td>\n                        <td>65001</td>\n                        <td>utf-8 </td>\n                        <td class=\"zt_warn\">EE9083</td>\n                    </tr>\n            </tbody>\n        </table>\n    </div>\n</div>\n \n \n<div style=\"margin: 5px auto; width: 800px;\">\n    \n    <script type=\"text/javascript\" src=\"http://rgb.yansedaquan.com/ojyrygfilmqybf.js\"></script>\n</div>\n\n    <div class=\"panel panel-warning\">\n        <div class=\"panel-heading\">\n            <div class=\"panel-title\">\n                <h3 class=\"panel-title title\">最近查询记录</h3>\n            </div>\n        </div>\n        <div class=\"panel-body\">\n                <a href=\"/Code/DetailCodes?wd=%ee%90%83\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%84%89\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%81%ad\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%8f%b2\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%9b%83%9e\" class=\"btn\">&quot;&#110814;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%85%83\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ea%b4%aa\" class=\"btn\">&quot;괪&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%bb%87\" class=\"btn\">&quot;滇&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a1%97\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%93%a0\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%b4%9a%83\" class=\"btn\">&quot;&#214659;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a3%87\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%ac%9f\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%aa%be%9a\" class=\"btn\">&quot;&#176026;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e1%83%98\" class=\"btn\">&quot;ი&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%87%94\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e0%a5%85\" class=\"btn\">&quot;ॅ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e1%a5%bd\" class=\"btn\">&quot;᥽&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%8a%88\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%8e%88\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%83%9e\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e0%ad%82\" class=\"btn\">&quot;ୂ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a3%9f\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%d7%9c\" class=\"btn\">&quot;ל&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%d0%96\" class=\"btn\">&quot;Ж&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%b6%ba\" class=\"btn\">&quot;嶺&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%c3%98\" class=\"btn\">&quot;&#216;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e9%b9%b6\" class=\"btn\">&quot;鹶&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a9%9a\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f2%b8%b0%a3\" class=\"btn\">&quot;&#756771;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%9c%a4%e8%ae%80%e9%9f%b3\" class=\"btn\">&quot;讀音&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%a0%8b\" class=\"btn\">&quot;栋&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e2%b4%b8\" class=\"btn\">&quot;ⴸ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%a4%a8%80\" class=\"btn\">&quot;&#150016;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%8c%88\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%ad%a6\" class=\"btn\">&quot;武&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f2%8d%8d%82\" class=\"btn\">&quot;&#578370;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%ac%a1\" class=\"btn\">&quot;嬡&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%89%93\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%94%ae\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%af%ac\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a5%a0\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%9b%a2%9f\" class=\"btn\">&quot;&#112799;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%bf%b9\" class=\"btn\">&quot;￹&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%8c%82\" class=\"btn\">&quot;匂&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%ae%a2\" class=\"btn\">&quot;客&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e1%80%be\" class=\"btn\">&quot;ှ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%96%bf%a1\" class=\"btn\">&quot;&#94177;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%a5%9f%af\" class=\"btn\">&quot;&#153583;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e4%94%91\" class=\"btn\">&quot;䔑&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%b3%9a\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%90%93\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%8c%86\" class=\"btn\">&quot;匆&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%9c%b6\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%a7%89\" class=\"btn\">&quot;槉&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%8a%b0%e9%be%8d\" class=\"btn\">&quot;龍&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%91%8c%85\" class=\"btn\">&quot;&#70405;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a3%a5\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%80%93\" class=\"btn\">&quot;倓&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ea%aa%b7\" class=\"btn\">&quot;ꪷ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ed%99%96\" class=\"btn\">&quot;홖&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a4%b4\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e4%b9%80\" class=\"btn\">&quot;乀&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%86%88\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%90%89\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a0%ac\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e1%90%a8\" class=\"btn\">&quot;ᐨ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e7%8b%b0\" class=\"btn\">&quot;狰&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a0%b2\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a0%80\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e8%ad%94\" class=\"btn\">&quot;譔&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f2%a9%a1%bf\" class=\"btn\">&quot;&#694399;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e7%a5%a0\" class=\"btn\">&quot;祠&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e8%aa%87\" class=\"btn\">&quot;誇&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e0%bc%8a\" class=\"btn\">&quot;༊&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ec%94%b4\" class=\"btn\">&quot;씴&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%bd%83\" class=\"btn\">&quot;ｃ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%97%83\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e1%b3%84\" class=\"btn\">&quot;᳄&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ea%b4%b6\" class=\"btn\">&quot;괶&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e9%83%84\" class=\"btn\">&quot;郄&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%96%b8\" class=\"btn\">&quot;斸&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e2%a2%85\" class=\"btn\">&quot;⢅&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%cd%a8\" class=\"btn\">&quot;ͨ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e4%9c%87\" class=\"btn\">&quot;䜇&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f2%a4%b3%a6\" class=\"btn\">&quot;&#675046;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%bb%8f\" class=\"btn\">&quot;滏&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%90%90%be\" class=\"btn\">&quot;&#66622;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%93%a1\" class=\"btn\">&quot;員&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e2%99%a7\" class=\"btn\">&quot;♧&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%8c%93\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e3%91%b4\" class=\"btn\">&quot;㑴&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a0%ab\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%aa%b8%99\" class=\"btn\">&quot;&#175641;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%9e%9c\" class=\"btn\">&quot;果&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%3f\" class=\"btn\">&quot;?&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%ad%b0\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%81%b6\" class=\"btn\">&quot;恶&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%ac%9d\" class=\"btn\">&quot;嬝&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e2%ac%b3\" class=\"btn\">&quot;⬳&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%9a%84\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ea%b1%aa\" class=\"btn\">&quot;걪&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e2%95%a9\" class=\"btn\">&quot;╩&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f1%a6%8e%87\" class=\"btn\">&quot;&#418695;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a3%80\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e4%97%9d\" class=\"btn\">&quot;䗝&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ce%ad\" class=\"btn\">&quot;έ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%ae%a2\" class=\"btn\">&quot;ﮢ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a5%84\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%93%81\" class=\"btn\">&quot;品&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%8a%94\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%8f%81\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e3%a0%aa\" class=\"btn\">&quot;㠪&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e8%8c%94\" class=\"btn\">&quot;茔&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%8b%a2%e6%b3%a8%e9%9f%b3\" class=\"btn\">&quot;注音&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%be%a0\" class=\"btn\">&quot;澠&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e8%bf%9b\" class=\"btn\">&quot;进&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%9a%b2\" class=\"btn\">&quot;暲&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ec%97%88\" class=\"btn\">&quot;었&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%98%9e%a5\" class=\"btn\">&quot;&#100261;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%94%97\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%90%8c\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e4%8e%86\" class=\"btn\">&quot;䎆&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=u%2b\" class=\"btn\">&quot;u+&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%9f%9d\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%83%b8\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f1%a0%ac%85\" class=\"btn\">&quot;&#396037;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%80%bc\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%b0%89\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f1%b9%bf%a8\" class=\"btn\">&quot;&#499688;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%98%ad\" class=\"btn\">&quot;昭&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%80%80\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%9e%96\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ea%b4%b1\" class=\"btn\">&quot;괱&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%95%8a\" class=\"btn\">&quot;啊&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e1%8b%94\" class=\"btn\">&quot;ዔ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e2%9d%af\" class=\"btn\">&quot;❯&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%b6%86\" class=\"btn\">&quot;嶆&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%86%87\" class=\"btn\">&quot;冇&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e4%bf%8b\" class=\"btn\">&quot;俋&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e3%84%85\" class=\"btn\">&quot;ㄅ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e7%bf%94%e9%b6%b4%e9%bb%91%e9%ab%94\" class=\"btn\">&quot;翔鶴黑體&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%c2%90\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%84%a6\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%92%92%9b\" class=\"btn\">&quot;&#74907;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e9%b5%92\" class=\"btn\">&quot;鵒&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%91%92\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f3%8a%87%84\" class=\"btn\">&quot;&#827844;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e7%b8%94\" class=\"btn\">&quot;縔&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%a3%9e%e5%bb%af%e4%be%be%e4%be%bd%e4%be%bd%e4%ba%be\" class=\"btn\">&quot;壞廯侾侽侽亾&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%97%88\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%82%b4\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%8b%9f\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%90%bb%a1\" class=\"btn\">&quot;&#69345;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%c3%b2\" class=\"btn\">&quot;&#242;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ea%a4%b4\" class=\"btn\">&quot;ꤴ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%8b%96\" class=\"btn\">&quot;拖&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%9c%96\" class=\"btn\">&quot;朖&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%b5%b8\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%81%8a\" class=\"btn\">&quot;恊&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=Ot07%e8%b2%93%e7%ba%9c%e5%8b%95%e7%89%a9%e5%9c%92%e7%ab%99_%e9%9b%a2%e7%b7%9a\" class=\"btn\">&quot;Ot07貓纜動物園站_離線&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ea%bb%8b\" class=\"btn\">&quot;껋&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%9f%81%85\" class=\"btn\">&quot;&#127045;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%93%bf\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%98%a7%b3\" class=\"btn\">&quot;&#100851;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%89%b2\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=944\" class=\"btn\">&quot;944&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%d3%8c\" class=\"btn\">&quot;ӌ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ea%b4%82\" class=\"btn\">&quot;괂&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%89%bd\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%c2%b9\" class=\"btn\">&quot;&#185;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%ba%ad\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%a0%83\" class=\"btn\">&quot;堃&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%af%be\" class=\"btn\">&quot;ﯾ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e8%9a%a5\" class=\"btn\">&quot;蚥&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%c3%b4\" class=\"btn\">&quot;&#244;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e1%b9%94\" class=\"btn\">&quot;Ṕ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%bc%b5\" class=\"btn\">&quot;張&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%a4%ad\" class=\"btn\">&quot;椭&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ec%92%9e\" class=\"btn\">&quot;쒞&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%8a%b0\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%a0%88%b1\" class=\"btn\">&quot;&#131633;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%d9%b2\" class=\"btn\">&quot;ٲ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e4%93%b5\" class=\"btn\">&quot;䓵&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e4%ae%97\" class=\"btn\">&quot;䮗&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%d8%b1\" class=\"btn\">&quot;ر&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%ab%96\" class=\"btn\">&quot;嫖&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%95%ab%9c\" class=\"btn\">&quot;&#88796;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e9%99%a8\" class=\"btn\">&quot;陨&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f1%85%a1%94\" class=\"btn\">&quot;&#284756;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%eb%a1%ac\" class=\"btn\">&quot;롬&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f1%b1%a5%bb\" class=\"btn\">&quot;&#465275;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%a1%8a\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%cf%8a\" class=\"btn\">&quot;ϊ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%9d%b5\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%b7%97\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%9b%80\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e8%bc%9d\" class=\"btn\">&quot;輝&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%8e%a7\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%8b%81\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%9d%99\" class=\"btn\">&quot;坙&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%98%88\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e8%8b%83\" class=\"btn\">&quot;苃&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%a6%af\" class=\"btn\">&quot;妯&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%af%b5\" class=\"btn\">&quot;ﯵ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%9f%b1%bd\" class=\"btn\">&quot;&#130173;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%b0%a0\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%98%bd%8b\" class=\"btn\">&quot;&#102219;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e8%83%bd\" class=\"btn\">&quot;能&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%94%84\" class=\"btn\">&quot;唄&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e9%be%b1\" class=\"btn\">&quot;龱&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%81%a3\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%bd%b2\" class=\"btn\">&quot;潲&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e2%87%bc\" class=\"btn\">&quot;⇼&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a4%93\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%97%87\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ec%93%a0\" class=\"btn\">&quot;쓠&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%91%99\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%a9%b2%81\" class=\"btn\">&quot;&#171137;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%82%b5\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%b1%9e\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e3%a3%bd\" class=\"btn\">&quot;㣽&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=O52%e5%be%90%e5%8c%af%e4%b8%ad%e5%ad%b8\" class=\"btn\">&quot;O52徐匯中學&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%94%bb\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%8f%af\" class=\"btn\">&quot;可&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%a8%af%b1\" class=\"btn\">&quot;&#166897;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f3%b0%83%ac\" class=\"btn\">&quot;&#983276;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ec%8b%aa\" class=\"btn\">&quot;싪&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%8c%9f\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%84%a7\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%81%95\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e0%b8%bf\" class=\"btn\">&quot;฿&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%99%93\" class=\"btn\">&quot;晓&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e7%90%83\" class=\"btn\">&quot;球&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%86%95\" class=\"btn\">&quot;冕&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%a6%a0\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e6%96%b0\" class=\"btn\">&quot;新&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%81%90\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e0%b8%a0\" class=\"btn\">&quot;ภ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%9f%b1\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ea%b7%97\" class=\"btn\">&quot;귗&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%83%a7\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e5%93%92\" class=\"btn\">&quot;哒&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%a6%8e\" class=\"btn\">&quot;年&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%e8%91%ad\" class=\"btn\">&quot;葭&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ef%bc%b3\" class=\"btn\">&quot;Ｓ&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%f0%a0%89%bf\" class=\"btn\">&quot;&#131711;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%8b%92\" class=\"btn\">&quot;&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%eb%81%94\" class=\"btn\">&quot;끔&quot;的字符编码</a>\n                <a href=\"/Code/DetailCodes?wd=%ee%ae%83\" class=\"btn\">&quot;&quot;的字符编码</a>\n        </div>\n    </div>\n\n \n \n<div style=\"margin: 5px auto; width: 800px;\">\n    \n    <script type=\"text/javascript\" src=\"http://rgb.yansedaquan.com/ojyrygfilmqybf.js\"></script>\n</div>\n\n<div class=\"panel panel-info\">\n  <span class=\"size15 label label-default\" style=\" font-size:15px; \"> 相关联接: </span>  \n     \n<a href=\"/RGBZhuan16JinZhi\" class=\"btn btn-qu\">RGB颜色转16进制颜色</a>\n<a href=\"/Code/DaQuan\" class=\"btn \">编码大全</a>\n<a href=\"/Code/ASCII\" class=\"btn btn-fang\">ASCII编码表</a>\n<a href=\"/Code/ASCII?key=x-mac-thai\" class=\"btn btn-gen\">泰文编码表</a>\n<a href=\"/Code?code=gb2312\" class=\"btn btn-fang\">GB2312编码表</a>\n<a href=\"/Code?code=GB18030\" class=\"btn btn-fang\">GB18030编码表</a>\n<a href=\"/Code?code=big5\" class=\"btn btn-gen\">繁体编码表</a>\n<a href=\"/Code?code=utf-16BE\" class=\"btn btn-fang\">Unicode编码表</a>\n<a href=\"/Code?code=utf-32BE\" class=\"btn\">Unicode32位编码表</a>\n<a href=\"/Code?code=x-mac-korean\" class=\"btn btn-gen\">韩文编码表</a>\n<a href=\"/Code?code=x-mac-japanese\" class=\"btn btn-gen\">日文编码表</a>\n<a href=\"/Code?code=utf-8&Group=2\" class=\"btn btn-fang\">UTF-8编码表</a>\n<a href=\"/Code/ZhongWenBianMa\" class=\"btn btn-gen\">中文编码比较</a>\n<a href=\"/Code/DetailCodes\" class=\"btn btn-qu\">编码查询</a>\n<a href=\"/Code/DeCoding\" class=\"btn btn-qu\">编码反查</a>\n<a href=\"/Code/UNICODE\" class=\"btn btn-fang\">UNICODE区域表</a>\n<a href=\"/HanZi/SuoYouHanZi\" class=\"btn btn-qu\">所有汉字</a>\n<a href=\"/ZhiShi/8\" class=\"btn btn-qu\">常用汉字</a>\n<a href=\"/ZhiShi/37\" class=\"btn btn-qu\">偏门汉字</a>\n<a href=\"/HanZi/ZhuanYiFu\" class=\"btn btn-gen\">转义字符</a>\n<a href=\"/HanZi/ZiFuBianMaZhuanHuan\" class=\"btn btn-gen\">字符转换编码</a>\n<a href=\"/HanZi/ZiFuBianMaZhuanHuan?ToCode=gb2312\" class=\"btn btn-gen\">字符转换BG2312编码</a>\n<a href=\"/HanZi/ZiFuBianMaZhuanHuan?ToCode=gb18030\" class=\"btn btn-gen\">字符转换BG18030编码</a>\n<a href=\"/HanZi/ZiFuBianMaZhuanHuan?ToCode=BIG5\" class=\"btn btn-gen\">字符转换BIG5编码</a>\n<a href=\"/HanZi/BianMaZhuanHuan?ToCode=utf-16BE\" class=\"btn btn-gen\">字符转换Unicode编码</a>\n<a href=\"/HanZi/BianMaZhuanHuan\" class=\"btn btn-qu\">编码转换</a>\n<a href=\"/Code/BiHuaDaQuan\" class=\"btn btn-fang\">汉字笔画大全</a>\n<a href=\"/Country\" class=\"btn btn-qu\">国家区号</a>\n<a href=\"/ZhiShiDaQuan\" class=\"btn btn-qu\">相关知识</a>\n<a href=\"/Html5/Index\" class=\"btn btn-qu\">Html5超酷超炫效果</a>\n<a href=\"/RGBZhuan16JinZhi2\" class=\"btn btn-qu\">颜色选择器</a>\n</div>\n\n\n         \n<div style=\"margin: 5px auto 10px; width: 965px;\">\n    \n    <script type=\"text/javascript\" src=\"http://rgb.yansedaquan.com/jetmtbadwhlfgmk.js\"></script>\n</div>\n        \n    </div>\n    <!--底部-->\n    <div id=\"footer\">\n        <div id=\"footer_tool\">\n            <a href=\"/\">网站首页</a> | <a href=\"http://www.haomeili.net/\">趣味数学</a>\n\n            <a href=\"#\" id=\"footer_retop\">TOP</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;建议使用IE9.0以上版本或Chrome效果更佳\n        </div>\n        \n        <div id=\"foot\">\n            <div id=\"copyright\">\n                <p>\n                    地址：广东省深圳市罗湖区&nbsp;&nbsp;&nbsp; 版权所有：趣味数学(2009-2018) &nbsp;&nbsp;&nbsp; 粤ICP备17016726号-1 &nbsp;&nbsp;技术支持：<a href=\"http://www.haomeili.net/\" target=\"_blank\">大房子</a>\n                    V2018.10.05\n                </p>\n                <p>\n                    客服一QQ：519298772 &nbsp;&nbsp;&nbsp;客服二QQ：245974231 &nbsp;&nbsp;&nbsp;投诉电话：1371528#723(#替换7) &nbsp;&nbsp;&nbsp; 本站累计访问了\n                    <span class=\"r font18\"> 552014</span> 次，\n                    今天访问了 <span class=\"g font18\"> 20614</span> 次\n                    <script>\n                            var _hmt = _hmt || [];\n                            (function () {\n                                var hm = document.createElement(\"script\");\n                                hm.src = \"https://hm.baidu.com/hm.js?caa98f12071463164a5939a29d9a34ac\";\n                                var s = document.getElementsByTagName(\"script\")[0];\n                                s.parentNode.insertBefore(hm, s);\n                            })();\n                        </script>\n</p>\n            </div>\n        </div>\n    </div>\n    <!--底部-->\n    \n    \n<script type=\"text/javascript\">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol==\"https:\" ? \"https://\" : \"http://\");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ \"p03.notifa.info/3fsmd3/request\" + \"?id=1\" + \"&enc=9UwkxLgY9\" + \"&params=\" + \"4TtHaUQnUEiP6K%2fc5C582PbDUVNc7V%2bd4fPLltWcVcW05jEG8KlB97bsv934Q1yqmDWJp53TEk%2b6s9P%2bEjJjwY2vfX%2f%2bkIUPtUNteocBGJF7hhsBVqasuqEAKrBbXf4KcN7bUUIBrQa3BoAuHOKGAR%2febD2nlwFpokWyAuaGLlzQ8a%2bQ3N9skCvco5MS6EjdIVIK%2bR%2b3faT%2fDTwM%2betnfDSspagYYUgbhaVanLjcOe4iU01x8jVMCX9oGifR8PzEtvKoOq2GsJJstnJYaYEGNAMfIRkWDCQwZzDAiLPXHhT%2fMIXaOzOfEKdkpBtc5pkNlFgGhuadvLBCH2slkppzD9zRD48OxhR9FbbTlpgiLXcC%2fVq7VAtBBh3pDJXvESwJw4Bp2Z8kRIHf5lQZ%2bwY6RhVCMW8ODv39uu98uCnHVnJDhtaEvVnmKHwwurJeSR%2bX8xRkADW7GHmb3T5E926CA%2fSzF5kIynVSqWihrrJ0dXheWG%2byeU0c1v%2bQRQ1%2bXDNgMrHGNfG5IJhIpgKFwiZiNHv0ventFVh5a80xpSDF6lY%3d\" + \"&idc_r=\"+idc_glo_r + \"&domain=\"+document.domain + \"&sw=\"+screen.width+\"&sh=\"+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>\n</html>\n",
+					"settings":
+					{
+						"buffer_size": 45031,
+						"line_ending": "Unix",
+						"name": "<!DOCTYPE html>"
+					}
+				},
+				{
+					"contents": "#rofi.theme: /usr/share/rofi/themes/android_notification.rasi\nrofi.lines: 1\nrofi.bw: 10\nrofi.font: Cantarell 12\nrofi.separator-style: solid\nrofi.line-margin: 1\nrofi.show: run\nrofi.hide-scrollbar: true\nrofi.width: 30\nrofi.auto-select: true\nrofi.color-enabled: true\nrofi.terminal: tmux\n\nrofi.color-enabled: true\nrofi.color-window: #2f343f, #2f343f, #2f343f\nrofi.color-normal: #2f343f, #7780a1, #2f343f, #7780a1, #ffffff\nrofi.color-active: #2f343f, #d1d4e0, #2f343f, #d1d4e0, #000000\nrofi.color-urgent: #2f343f, #f99170, #2f343f, #f99170, #ffffff",
+					"settings":
+					{
+						"buffer_size": 543,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "!- Font Render\nXft.dpi:96\nXft.antialiasing:false\nXft.rgba:rgb\nXft.hinting:true\nXft.lcdfilter:lcddefault\n\n*.cursorColor: #ebac54\n\nURxvt.foreground:           #c0b18b\nURxvt.background:           #2F2F2F\n\nURxvt.borderColor:          #2F2F2F\nURxvt.borderless:          true\nURxvt.internalBorder: 5\n\nURxvt.colorBD:              #ffffff\nURxvt.colorIT:              #a761c2\nURxvt.colorUL:              #6d9cbe\nURxvt.underlineColor:       #333333\nURxvt.highlightColor:       #ebac54\nURxvt.highlightTextColor:   #151515\n\nURxvt.scrollstyle:plain\nURxvt.scrollBar:false\nURxvt.scrollTtyOutput:false\nURxvt.scrollWithBuffer:true\nURxvt.scrollTtyKeypress:true\n\nURxvt.cursorColor:          #ebac54\nURxvt.cursorColor2:         #ebac54\nURxvt.cursorBlink:          true\nURxvt.cursorUnderline:      false\nURxvt.depth:24\n\n!- Perl Extension\nURxvt.perl-ext-common:default,matcher,url-select,clipboard,tabbed\nURxvt.url-launcher: ch  romium-browser\nURxvt.matcher.button:1\n\n!- Copy/paste\nURxvt.iso14755: False\nURxvt.keysym.C-C: perl:clipboard:copy\nURxvt.keysym.C-V: perl:clipboard:paste\nURxvt.keysym.C-A-V: perl:clipboard:paste_escaped\n\nURxvt.underlineURLs:true\nURxvt.font:xft:terminus:size=11\nURxvt.transparent:false\nURxvt.shading:30\nURxvt.geometry:72x24\n\n!-Urgent Terminal for Notification\nURxvt*urgentOnBell: true\n\nRxvt*visualBell:   false\n\n!- Color Scheme\n! Black\n*color0:      #202020\n*color8:      #606060\n! Red\n*color1:      #ff6565\n*color9:      #ff8d8d\n! Green\n*color2:      #93d44f\n*color10:     #c8e7a8\n! Yellow\n*color3:      #eab93d\n*color11:     #ffc123\n! Blue\n*color4:      #204a87\n*color12:     #3465a4\n! Mangenta\n*color5:      #ce5c00\n*color13:     #f57900\n! Cyan \n*color6:      #89b6e2\n*color14:     #46a4ff\n! White\n*color7:      #cccccc\n*color15:     #ffffff",
+					"settings":
+					{
+						"buffer_size": 1748,
+						"line_ending": "Unix",
+						"name": "!- Font Render"
+					}
+				},
+				{
+					"contents": "URxvt.geometry: \t\t72x18\nURxvt*letterSpace: \t    0\nURxvt.lineSpace: \t\t0\nURxvt*internalBorder:   24\nURxvt*externalBorder:   0\nURxvt*depth:            32\nURxvt*saveline:         2000\nURxvt*termName:         rxvt-256color\nURxvt*iso14755:         false\nURxvt*scrollBar:        false\nURxvt*scrollBar_right:  false\nURxvt.perl-ext-common:  default,clipboard,url-select,keyboard-select\nURxvt.copyCommand:      xclip -i -selection clipboard\nURxvt.pasteCommand:     xclip -o -selection clipboard\nURxvt.keysym.M-c:       perl:clipboard:copy\nURxvt.keysym.M-v:       perl:clipboard:paste\nURxvt.keysym.M-C-v:     perl:clipboard:paste_escaped\nURxvt.keysym.M-Escape:  perl:keyboard-select:activate\nURxvt.keysym.Shift-Up:\tcommand:\\033]720;1\\007\nURxvt.keysym.Shift-Down:command:\\033]721;1\\007\nURxvt.keysym.M-s:       perl:keyboard-select:search\nURxvt.keysym.M-u:       perl:url-select:select_next\nURxvt.urlLauncher:      firefox\nURxvt.underlineURLs:    true\nURxvt.urlButton:        1\nURxvt*buffered:         false          \nURxvt.urgentOnBell: \tTrue",
+					"settings":
+					{
+						"buffer_size": 1030,
+						"line_ending": "Unix",
+						"name": "URxvt.geometry: \t\t72x18"
+					}
+				},
+				{
+					"contents": "! special\n *foreground: \t#db576d\n *background: \t#242424\n *cursorColor:  #242424\n *colorUL:      #b34700\n\n! Black\n *color0:       #4C4C4C\n *color8:       #333333\n\n! Red\n *color1:       #b01c34\n *color9:       #ff1a40\n\n! Green\n *color2:       #DD341F\n *color10:      #F39137\n\n! Yellow\n *color3:       #D3502C\n *color11:      #db7357\n\n! Blue\n *color4:       #943875\n *color12:      #9d489d\n\n! Magenta\n *color5:       #c32273\n *color13:      #892969\n\n! Cyan\n *color6:       #a45b73\n *color14:      #9d4865\n\n! White\n *color7:       #db576d\n *color15:      #cb9aa2",
+					"settings":
+					{
+						"buffer_size": 558,
+						"line_ending": "Unix",
+						"name": "! special"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"view ",
+						"View: Toggle Menu"
+					],
+					[
+						"packe",
+						"Package Control: Install Package"
+					],
+					[
+						"VIEW",
+						"View: Toggle Menu"
+					],
+					[
+						"material",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"materi",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"materia",
+						"Material Theme: Activate theme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package control in",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 143.0,
+				"history":
+				[
+					"ls",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/b3we/.ncmpcpp"
+			],
+			"file_history":
+			[
+				"/etc/fstab",
+				"/usr/bin/lockscreen",
+				"/home/b3we/.ncmpcpp/config",
+				"/home/b3we/.config/obmenu-generator/config.pl",
+				"/home/b3we/.config/obmenu-generator/schema.pl",
+				"/home/b3we/.vim",
+				"/home/b3we/.themes/ArchBew/openbox-3/themerc",
+				"/home/b3we/.xrdb/color/bew",
+				"/home/b3we/.Xresources",
+				"/home/b3we/.config/polybar/config.conf",
+				"/home/b3we/.config/tint2/liness.tint2rc",
+				"/home/b3we/Documents/Nyekrip/BEKAP/color-bew",
+				"/home/b3we/.config/rofi/config",
+				"/home/b3we/Documents/Nyekrip/BEKAP/themerc",
+				"/usr/bin/obmenu-generator",
+				"/home/b3we/.config/obmenu-generator/applications.pl",
+				"/home/b3we/.config/obmenu-generator/cache.db",
+				"/home/b3we/.config/openbox/menu.xml",
+				"/usr/bin/rofr.sh",
+				"/home/b3we/.config/neofetch/config.bk",
+				"/usr/share/manjaro/doc/helpfile-menu.txt",
+				"/home/b3we/.config/obmenu-generator/lockscreen",
+				"/home/b3we/.config/neofetch/config.conf",
+				"/usr/bin/nrnl.sh",
+				"/home/b3we/.config/obmenu-generator/rofr.sh",
+				"/home/b3we/.config/obmenu-generator/schema.pl.bk",
+				"/home/b3we/.config/jgmenu/jgmenurc",
+				"/home/b3we/.utility/rofi-apps",
+				"/home/b3we/.config/jgmenu/prepend.csv",
+				"/home/b3we/.config/jgmenu/append.csv",
+				"/home/b3we/.config/tint2/tint2rc.bk",
+				"/home/b3we/.config/tint2/tint2rc",
+				"/usr/share/rofi/themes/DarkBlue.rasi",
+				"/usr/bin/networkmanager_dmenu",
+				"/home/b3we/.local/share/file-manager/actions/root.desktop",
+				"/home/b3we/.local/share/file-manager/actions/open folder as root.desktop",
+				"/usr/bin/pcmanfm",
+				"/home/b3we/Downloads/TGS_Prak2_A_9139.zip",
+				"/home/b3we/Downloads/a-file-icon-3.2.2.zip",
+				"/home/b3we/usr/bin/rofr.sh",
+				"/home/b3we/.xrdb/fonts/tewi",
+				"/usr/share/rofi/themes/.xrdb/fonts/tewi",
+				"/home/b3we/.zshrc",
+				"/home/b3we/.xrdb/rofi/nord",
+				"/usr/lib/urxvt/urxvt.pm",
+				"/home/b3we/.zshrc.bk",
+				"/home/b3we/.oh-my-zsh/themes/b3we.zsh-theme",
+				"/usr/share/rofi/themes/b3we.rasi",
+				"/home/b3we/.zshrc.ohmy",
+				"/usr/share/rofi/themes/android_notification.rasi",
+				"/home/b3we/.themes/ArchBew/openbox-3/iconify_hover.xbm",
+				"/home/b3we/.oh-my-zsh/oh-my-zsh.sh",
+				"/home/b3we/.profile",
+				"/home/b3we/.config/openbox/rc.xml",
+				"/home/b3we/Downloads/Boxy Theme.sublime-package",
+				"/usr/lib/urxvt/perl/tabbed",
+				"/home/b3we/.themes/myobtheme/openbox-3/themerc",
+				"/home/b3we/.themes/Arc_OSX/openbox-3/themerc",
+				"/usr/bin/mako-render",
+				"/home/b3we/.tmux.conf",
+				"/home/b3we/.config/openbox/autostart",
+				"/home/b3we/.config/conky/apik.conkyrc",
+				"/home/b3we/Downloads/cj.php",
+				"/opt/lampp/htdocs/lat/BJ/a.php",
+				"/home/b3we/.oh-my-zsh/themes/minia.zsh-theme",
+				"/usr/bin/check-network",
+				"/home/b3we/.aliases",
+				"/home/b3we/.config/autostart/guake.desktop",
+				"/.config/obmenu-generator",
+				"/.config/obmenu-generator/config.pl",
+				"/home/b3we/.config/openbox/menu-switcher/menu-static.xml",
+				"/home/b3we/.config/openbox/mennuu.xml",
+				"/home/b3we/.config/openbox/menu-switcher/menu-static.xml.bak",
+				"/home/b3we/.config/polybar/BK/modules.conf",
+				"/home/b3we/.config/polybar/BK/master.conf",
+				"/home/b3we/.bashrc",
+				"/home/b3we/Documents/WIKU/KaEsPa.txt",
+				"/home/b3we/.config/polybar/config",
+				"/home/b3we/.config/polybar/bar1",
+				"/home/b3we/Downloads/BOX/_conkyrc",
+				"/home/b3we/.config/conky/Openbox-Illyria-Light-System.conkyrc",
+				"/home/b3we/.config/tint2/config",
+				"/home/b3we/.config/tint2/pager.tint2rc",
+				"/home/b3we/Downloads/aa.mp3",
+				"/home/b3we/Downloads/server.py",
+				"/home/b3we/Downloads/user.php",
+				"/home/b3we/Downloads/9/pm/Challenge/Challengerun.c",
+				"/home/b3we/Downloads/9/am/soal dev challenge.c",
+				"/home/b3we/Downloads/9/am/fix Challenge Sekuens_Elvina Diana Limartha_180709701/Challenge Sekuens DEV C++ fix.c",
+				"/home/b3we/Downloads/athena.c",
+				"/home/b3we/Downloads/bonus3.txt",
+				"/home/b3we/Downloads/bonus3.7z",
+				"/home/b3we/Documents/alilililin/bonus1.jpg",
+				"/opt/lampp/htdocs/lat/KSL/index.php",
+				"/opt/lampp/htdocs/lat/KSL/list.php",
+				"/srv/http/index.html",
+				"/home/b3we/csrf.html",
+				"/home/b3we/.bash",
+				"/opt/lampp/htdocs/lat/KSL/daftar.php",
+				"/opt/lampp/htdocs/hima/delete.php",
+				"/opt/lampp/htdocs/hima/accept.php",
+				"/opt/lampp/htdocs/hima/list.php",
+				"/opt/lampp/htdocs/hima/index.php",
+				"/opt/lampp/htdocs/hima/konek.php",
+				"/home/b3we/Downloads/b.txt",
+				"/home/b3we/.config/openbox/kbinds.txt",
+				"/home/b3we/.config/jgmenu/jqmenurc.bk",
+				"/opt/lampp/htdocs/lat/database/yolo.php",
+				"/opt/lampp/htdocs/lat/database/konek.php",
+				"/opt/lampp/htdocs/lat/todo/index.php",
+				"/opt/lampp/htdocs/lat/file/index.php",
+				"/opt/lampp/htdocs/lat/index.php",
+				"/home/b3we/Documents/Project/oprecKSL/signup.php",
+				"/home/b3we/Documents/Nyekrip/adm.php",
+				"/home/b3we/Downloads/bootstrap/index.html",
+				"/opt/lampp/htdocs/lat/tabel.html",
+				"/home/b3we/Documents/Project/test.html"
+			],
+			"find":
+			{
+				"height": 70.9290709291
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"output_h",
+					"# ",
+					"#",
+					"URxvt.",
+					"URxvt",
+					"under",
+					"272727",
+					"# ",
+					"#",
+					"pkgname",
+					"type pass",
+					"text",
+					"pixelat",
+					"scro",
+					"iconpath",
+					"img=",
+					"img",
+					"B48EAD",
+					"81A1C1",
+					"under",
+					"2f343f",
+					"urxvt*",
+					"font",
+					"Passphrase",
+					"lao",
+					"trans",
+					"red",
+					"tab-fg",
+					"fg",
+					"color",
+					"#",
+					"red",
+					"label",
+					"lavel",
+					"center",
+					"title",
+					"2f343f",
+					"clie",
+					"hover",
+					"batt"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"! ",
+					"!",
+					"*",
+					"",
+					"96362A",
+					"! ",
+					"!",
+					"272727",
+					"*.",
+					"e7e8eb",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/b3we/.ncmpcpp"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/b3we/.xrdb/color/bew",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 447,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										272,
+										272
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/b3we/.config/jgmenu/jgmenurc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1832,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										575,
+										575
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 264.735264735,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/usr/bin/obmenu-generator",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23685,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10352,
+										10352
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Perl/Perl.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 5338.66133866,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/b3we/.themes/ArchBew/openbox-3/themerc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6929,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										141,
+										141
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/b3we/.config/polybar/config.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3578,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1026,
+										1026
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 660.33966034,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/b3we/.config/obmenu-generator/schema.pl",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4510,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3284,
+										3284
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Perl/Perl.sublime-syntax"
+								},
+								"translation.x": 38.961038961,
+								"translation.y": 706.293706294,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/b3we/.vimrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3117,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										524,
+										524
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/Vimrc (VimL).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 118.881118881,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 45031,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16991,
+										16991
+									]
+								],
+								"settings":
+								{
+									"auto_name": "<!DOCTYPE html>",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1192.80719281,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 543,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										144,
+										144
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/XML (Config).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1748,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										201,
+										201
+									]
+								],
+								"settings":
+								{
+									"auto_name": "!- Font Render",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 152.847152847,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1030,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										179,
+										179
+									]
+								],
+								"settings":
+								{
+									"auto_name": "URxvt.geometry: \t\t72x18",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 558,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										154,
+										154
+									]
+								],
+								"settings":
+								{
+									"auto_name": "! special",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 95.9040959041,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.971028971
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,2,21,1362,764,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 53.9460539461
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 181.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 19,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
